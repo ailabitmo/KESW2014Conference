@@ -9,8 +9,6 @@ p=. October 7-9, 2014
 
 p=. Kazan, Russia
 
-*LATEST NEWS:*
-
 KESW is a top Russian venue for discussing research issues related to knowledge representation, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions.
 
 The conference will consists of:

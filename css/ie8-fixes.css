@@ -1,0 +1,15 @@
+/**
+ * @file
+ * IE 8 Style hacks.
+ */
+
+span.drop-arrow {
+  background: url('../images/arrows-ffffff.png') 10px -100px;
+  display: block;
+  height: 10px;
+  position: absolute;
+  right: 1px;
+  top: 13px;
+  width: 11px;
+  z-index: 201;
+}
