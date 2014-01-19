@@ -1,0 +1,6 @@
+name: KESW Conference Series
+markdown: redcarpet
+pygments: true
+safe: true
+encoding: UTF-8
+exclude: [news]

@@ -1,0 +1,23 @@
+---
+layout: frontpage
+title: Welcome
+---
+
+p=. *Knowledge Engineering and Semantic Web Conference 2014*
+
+p=. October 7-9, 2014
+
+p=. Kazan, Russia
+
+*LATEST NEWS:*
+
+KESW is a top Russian venue for discussing research issues related to knowledge representation, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions.
+
+The conference will consists of:
+
+* Semantic Web School (Sep 30 - Oct 4 2014). We plan to invite the most experienced tutors from Russia and other countries.
+* Hackathon (Oct 5-6 2014). 24 hours marathon to create public services using Open Data.
+* Plenary and panel sessions (Oct 7-9 2014). Invited speakers will give talks at the plenary session.
+
+More information will be announced later, stay tuned and "follow us":https://twitter.com/keswconference on Twitter!
+
