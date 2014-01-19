@@ -1,4 +1,5 @@
-name: KESW Conference Series
+name: KESW 2014 Conference
+url: http://ailabitmo.github.io/KESW2014Conference
 markdown: redcarpet
 pygments: true
 safe: true
