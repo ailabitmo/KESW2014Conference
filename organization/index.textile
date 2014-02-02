@@ -5,11 +5,11 @@ title: Organization committee
 
 h3. Main organizers
 
-*General Chair* Dmitry Mouromtsev, NRU ITMO, St.Petersburg, Russia
+*General Chair:* Dmitry Mouromtsev, NRU ITMO, St.Petersburg, Russia
 
-*Program Chair* "Pavel Klinov":http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html, University of Ulm, Germany
+*Program Chair:* "Pavel Klinov":http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html, University of Ulm, Germany
 
-*Local Organization Chairs*
+*Local Organization Chairs:*
 
 TBA
 

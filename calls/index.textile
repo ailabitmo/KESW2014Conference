@@ -3,8 +3,6 @@ layout: page
 title: Call for papers
 ---
 
-h2. Call for papers
-
 International Conference on Knowledge Engineering and Semantic Web (KESW) is a top international event taking place in Russia and dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions.
 
 _As last year, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in *English*_.
