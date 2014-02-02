@@ -1,0 +1,89 @@
+---
+layout: page
+title: Call for papers
+---
+
+h2. Call for papers
+
+International Conference on Knowledge Engineering and Semantic Web (KESW) is a top international event taking place in Russia and dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions.
+
+_As last year, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in *English*_.
+
+h3. RESEARCH TRACK
+
+For the research track we welcome novel papers addressing theoretical, analytical or empirical aspects of research related to KR and Semantic Web. Topics of interest include but are not limited to:
+
+*Ontology management*
+
+* Logical and philosophical foundations
+* Merging and alignment, modularity
+* Collaborative engineering and exchange
+* Using ontologies for modeling scientific knowledge
+
+*Knowledge Representation and Reasoning:*
+
+* Knowledge aquisition and management
+* Theory of automated reasoning
+* Practical algorithms and optimizations
+* Applications
+
+*Linked Data*
+
+* Publishing and integration
+* Querying
+* Scalability aspects
+* Open Data
+
+*Natural Language Processing for Semantic Web*
+
+* Information extraction and content analysis
+* Document clustering and classification
+* Opinion mining and sentiment analysis
+* Semantic-based information retrieval
+* Controlled natural languages
+
+*Semantic Databases*
+
+* RDF and other NoSQL databases for managing Linked Data
+* Ontologies and databases
+* Query answering
+
+*Other Topics (not limited to)*
+
+* Semantic Web Services
+* Human Computer Interaction
+* Semantic Social Web
+* Trust, Security, and Privacy
+* Knowledge Visualization
+* Semantic Web in Education
+
+h3. INDUSTRY TRACK
+
+For the industry track we solicit papers that describe practical experience of using Semantic Web or KR-related technologies in practical projects. Descriptions of industrial deployments and production usage are especially invited but papers with preliminary experience are also welcome (as long as the authors are able to demonstrate, preferably with some quantitative data, practical utility of Semantic Web technologies in a particular domain).
+Topics of interest include but are not limited to:
+
+* Applications of Semantic Web technologies in various industrial domains.
+* Applications of Semantic Web technologies in community, government and semantic smart city.
+* Industrial trends related to the usage of Linked Data and Semantic Web technologies
+* Description and analysis of concrete problems and user requirements for applying Semantic Web technologies in specific industry domains
+* Analysis and evaluation of usability, assessment of pros and cons of using Semantic Web technologies in real-world scenarios including models of investment justifications (ROI)
+
+h3. System Descriptions
+
+h3. Posters
+
+The poster track is an opportunity to present research through an informal discussion or presentation. We invite submissions relevant to the above topics. Posters may complement submissions to the research and industrial tracks. Furthermore, we explicitly encourage you to submit a poster if your research or industry paper has been accepted.
+
+h3. SUBMISSION
+
+All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via Easychair (link TBA)
+
+h3. Size restrictions
+
+TBA
+
+_Submissions *must* be prepared according to the "Springer LNCS":http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0 format_.
+
+h3. IMPORTANT DATES
+
+TBA

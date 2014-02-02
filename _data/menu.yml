@@ -3,6 +3,12 @@
   label: Home
   path: /
 - 
+  label: Calls
+  path: /calls/
+- 
+  label: Organization
+  path: /organization/
+- 
   label: Become a Sponsor
   path: /becomeasponsor/
 -
