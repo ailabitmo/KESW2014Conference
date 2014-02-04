@@ -5,7 +5,7 @@ title: Welcome
 
 p=. *International Conference on Knowledge Engineering and Semantic Web*
 
-p=. October 6-8, 2014
+p=. September 29 - October 1, 2014
 
 p=. "Kazan":http://en.wikipedia.org/wiki/Kazan, Russia
 

@@ -48,7 +48,7 @@ For the research track we welcome novel papers addressing theoretical, analytica
 
 *Other Topics (not limited to)*
 
-* Semantic Web Services
+* Cognitive aspects of semantic technologies
 * Human Computer Interaction
 * Semantic Social Web
 * Trust, Security, and Privacy
@@ -68,19 +68,25 @@ Topics of interest include but are not limited to:
 
 h3. System Descriptions
 
+We invite submissions which describe architecture, design, implementation, or experiments with existing systems which use semantic technologies. Preliminary reports describing research prototypes are welcome, too. The papers should explain how the use of semantic technologies helps to solve specific problems and/or is beneficial for the users. The authors will be given an opportunity to demonstrate their system during the poster and demo session at the conference. 
+
 h3. Posters
 
-The poster track is an opportunity to present research through an informal discussion or presentation. We invite submissions relevant to the above topics. Posters may complement submissions to the research and industrial tracks. Furthermore, we explicitly encourage you to submit a poster if your research or industry paper has been accepted.
+The poster track is an opportunity to present research through an informal discussion or presentation. We invite submissions relevant to the above topics. Posters may complement submissions to the research and industrial tracks. Furthermore, we explicitly encourage you to submit a poster if your research or industry paper has been accepted. Depending on the density of the final program, the poster authors may be given short slots for flash talks to announce their posters.
 
 h3. SUBMISSION
 
-All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via Easychair (link TBA)
+All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via Easychair.
+
+"Submission page is now open"::https://www.easychair.org/conferences/?conf=kesw2014
 
 h3. Size restrictions
 
-TBA
+* Research and industry papers: 15 pages including references.
+* System description papers: 10 pages including references.
+* Posters: 2 page abstract. 
 
-_Submissions *must* be prepared according to the "Springer LNCS":http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0 format_.
+_We strongly encourage all authors to prepare their submissions according to the "Springer LNCS":http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0 format. This will be strictly enforced for all accepted papers. Contact "Pavel Klinov":http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html if this becomes a show stopper_.
 
 h3. IMPORTANT DATES
 
