@@ -5,13 +5,13 @@
 - 
   label: Calls
   path: /calls/
-  children: 
-    - 
-      label: Call for Research Track
-      path: /calls/research-track-papers
-    - 
-      label: Call for Industry Track
-      path: /calls/industry-track-papers
+#  children: 
+#    - 
+#      label: Call for Research Track
+#      path: /calls/research-track-papers
+#    - 
+#      label: Call for Industry Track
+#      path: /calls/industry-track-papers
 - 
   label: Organization
   path: /organization/
