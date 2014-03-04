@@ -89,4 +89,12 @@ bq. _We strongly encourage all authors to prepare their submissions according to
 
 h3. IMPORTANT DATES
 
-TBA
+Research papers, industry papers and system descriptions:
+* Abstract submission: May 2nd, 2014
+* Full paper submission: May 9th, 2014
+* Author notification: June 20th, 2014
+* Camera-ready submission: July 4th, 2014
+
+Posters:
+* Abstract submission: August 15th, 2014
+* Author notification: August 29th, 2014
