@@ -15,8 +15,6 @@ Ayrat Khasyanov, Kazan Federal University,
 Leisan Ahmetzyanova, Kazan Federal University,
 Vladimir Ivanov, Kazan Federal University
 
-TBA
-
 h3. Program committee
 
 Darya Tarasowa, University of Bonn, Germany
