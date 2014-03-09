@@ -9,7 +9,7 @@ p=. September 29 - October 1, 2014
 
 p=. "Kazan":http://en.wikipedia.org/wiki/Kazan, Russia
 
-*Latest news:* _Just as "last year":":http://link.springer.com/book/10.1007%2F978-3-642-41360-5, the proceedings of KESW 2014 will be published in the Springer's "Communications in Computer and Information Science":http://link.springer.com/bookseries/7899 (CCIS) series. The papers will be abstracted/indexed by DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, and Scopus_. 
+*Latest news:* _Just as "last year":http://link.springer.com/book/10.1007%2F978-3-642-41360-5, the proceedings of KESW 2014 will be published in the Springer's "Communications in Computer and Information Science":http://link.springer.com/bookseries/7899 (CCIS) series. The papers will be abstracted/indexed by DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, and Scopus_. 
 
 KESW 2014 will be the 5th conference in the series. KESW is a top international event taking place in Russia and dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions.
 
