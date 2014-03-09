@@ -16,48 +16,50 @@ TBA
 
 h3. Program committee
 
-Darya Tarasowa, AKSW Group
-Pavel Klinov, University of Ulm
-Yue	Ma
-Irina Radchenko, Higher School of Economics
-Igor Bessmertny, NRU ITMO		
-Denis Ponomaryov, University of Ulm		
-Julia Taylor, Purdue University		
-Marvin Schiller, Ulm University		
-Amrapali Zaveri, AKSW Group		
-Dmitry Mouromtsev, Univeristy ITMO
-Alexander Boukhanovsky, NRU ITMO
-Roman Kontchakov, Birkbeck College
-Dmitriy Zheleznyakov, University of Oxford
-Evgeny Kharlamov, Oxford University		
-Martin Homola		
-Serge Yablonsky, St. Petersburg State University
-Dmitry Kudryavtsev, Business Engineering Group, St.Petersburg State Polytechnical University		
-Samantha Bail, The University of Manchester
-Ivan Ermilov, Universität Leipzig		
-Joerg Unbehauen, University of Leipzig		
-Ioan Toma, STI Innsbruck	
-Timofey Ermilov, University of Leipzig		
-Rafael Peñaloza, TU Dresden		
-Natalya Keberle, Zaporizhzhya National University
-Chiara	Del Vescovo, The University of Manchester
-Jose Emilio	Labra Gayo, Universidad de Oviedo
-Dmitry	Ignatov, National Research University Higher School of Economics
-Dmitry Tsarkov, The University of Manchester
+Darya Tarasowa, University of Bonn, Germany
+Yue	Ma, Technical University of Dresden, Germanu
+Irina Radchenko, Higher School of Economics, Russia
+Igor Bessmertny, NRU ITMO, Russia		
+Denis Ponomaryov, University of Ulm, Germany		
+Julia Taylor, Purdue University, USA		
+Marvin Schiller, University of Ulm, Germany
+Amrapali Zaveri, University of Lepzig, Germany	
+Alexander Boukhanovsky, NRU ITMO, Russia
+Roman Kontchakov, Birkbeck College, UK
+Dmitriy Zheleznyakov, University of Oxford, UK
+Evgeny Kharlamov, University of Oxford, UK		
+Martin Homola, Comenius University, Slovakia		
+Serge Yablonsky, St. Petersburg State University, Russian
+Dmitry Kudryavtsev, Business Engineering Group, St. Petersburg State Polytechnical University, Russia		
+Samantha Bail, Flatiron Health, US
+Ivan Ermilov, University of Leipzig, Germany		
+Joerg Unbehauen, University of Leipzig, Germany		
+Ioan Toma, STI Innsbruck, Austria	
+Timofey Ermilov, University of Leipzig, Germany		
+Rafael Peñaloza, Technical University of Dresden, Germany		
+Natalya Keberle, Zaporizhzhya National University, Ukraine
+Chiara	Del Vescovo, University of Manchester, UK
+Jose Emilio	Labra Gayo, Universidad de Oviedo, Spain
+Dmitry	Ignatov, Higher School of Economics, Russia
+Dmitry Tsarkov, University of Manchester, UK
 Jakub Klimek, Charles University, Prague	
-Svetlana Popova, Saint-Petersburg State University, Saint-Petersburg State Polytechnic University	
-Sören Auer, University of Bonn	
-Trung-Kien Tran, University of Ulm	
-Daria Stepanova, Technical University of Vienna
-Konrad Höffner, Universität Leipzig	
-Daniel Hladky, Ontos AG		
-Bijan Parsia, University of Manchester
-Boris Konev, The University of Liverpool	
-Sergey Balandin, FRUCT	
-Valery Rubashkin, Saint-Petersburg State University
-Nicolas	Matentzoglu, University of Manchester
-Tatiana	Gavrilova, St.Petersburg State University Graduate School of Management		
-Rafael S. Gonçalves, University of Manchester
-Matthew	Horridge, Stanford University		
-Mathieu	D'Aquin	
-Andriy	Nikolov, fluid Operations AG
+Svetlana Popova, Saint-Petersburg State University, Saint-Petersburg State Polytechnic University, Russia
+Sören Auer, University of Bonn, Germany	
+Trung-Kien Tran, University of Ulm, Germany	
+Daria Stepanova, Technical University of Vienna, Austria
+Konrad Höffner, University of Leipzig, Germany
+Daniel Hladky, Ontos AG, Switzerland		
+Bijan Parsia, University of Manchester, UK
+Boris Konev, University of Liverpool, UK	
+Sergey Balandin, FRUCT, Russia	
+Valery Rubashkin, Saint-Petersburg State University, Russia
+Nicolas	Matentzoglu, University of Manchester, UK
+Tatiana	Gavrilova, St.Petersburg State University, Russia
+Rafael S. Gonçalves, University of Manchester, UK
+Matthew	Horridge, Stanford University, US		
+Mathieu	D'Aquin, Open University, UK
+Andriy	Nikolov, fluid Operations AG, Germany
+Ali	Khalili,	University of Leipzig, Germany
+Alessandro Adamou,	ISTC-CNR, Italy
+Anna	Szkudlarek, Grenoble Graduate School of Business, France
+Vladimir Gorovoy, Yandex, Russia

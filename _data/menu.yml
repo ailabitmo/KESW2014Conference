@@ -3,6 +3,9 @@
   label: Home
   path: /
 - 
+  label: News
+  path: /news/
+- 
   label: Calls
   path: /calls/
 #  children: 
