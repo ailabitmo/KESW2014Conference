@@ -1,6 +1,7 @@
 ---
 layout: page
 title: News
+published: true
 ---
 
 h3. March 09, 2014: Springer Proceedings
