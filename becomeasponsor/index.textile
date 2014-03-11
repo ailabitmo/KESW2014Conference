@@ -3,4 +3,41 @@ layout: page
 title: Become a Sponsor
 ---
 
-To be announced
+h1. Platinum Sponsor (3 000 Euro)[1] [2]
+
+The Platinum sponsor package is more flexible and is formed individually, depending on the goals and objectives of the sponsor. We are ready to discuss carrying out additional, non-standard activities and promotional techniques.
+
+Platinum sponsor is also the official sponsor of the visit to Russia invited speakers.
+
+* Assigning the status "Platinum Sponsor of KESW(Knowledge Engineering and Semantic Web Conference) 2014".
+* Placement of the logo, with the status on the event website on all pages on all promotional materials and POS-material.
+* Inclusion of the sponsor’s logo in event promotional materials to be distributed on the Internet, before and after the event.
+* Inclusion of promotional items* in the participant package.
+* Placement of outdoor advertising structures* in the registration area and the auditorium.
+* Placing the stand in the area of posters and communication**.
+* Mention of the sponsor at the opening and closing ceremonies.
+* Talk of the sponsor’s representative in the panel session (20 min).
+
+h1. Gold sponsor (2 000 Euro)[1] [2]
+
+* Assigning the status "Gold Sponsor of KESW(Knowledge Engineering and Semantic Web Conference) 2014".
+* Placement of the logo, with the status on the event website on all pages on all promotional materials and POS-material.
+* Inclusion of promotional items* in the participant package.
+* Placement of promotional items at the front desk*.
+* Placement of outdoor advertising structures* in the registration area and the auditorium.
+* Talk of the sponsor’s representative in the panel session (10 min).
+* Mention of the sponsor at the closing ceremonies.
+
+h1. Silver sponsor (1 000 Euro)[1] [2]
+
+* Assigning the status "Silver Sponsor of KESW(Knowledge Engineering and Semantic Web Conference) 2014".
+* Placement of the logo, with the status on the event website on all pages on all promotional materials and POS-material.
+* Inclusion of promotional items* in the participant package.
+
+Other kinds of cooperation are possible.
+Changing the conditions of sponsorship is possible individually.
+
+fn1. Outdoor advertising structures, banners, flyers and other promotional materials are provided by the sponsors themselves.
+
+fn2. Area of posters and communication is one of the main areas where participants will be when they are not on presentations. It is also a sitting area, a place where sponsors can locate their posters and a place for coffee breaks.
+
