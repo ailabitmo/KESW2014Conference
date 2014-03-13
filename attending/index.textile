@@ -1,0 +1,52 @@
+---
+layout: page
+title: Attending KESW 2014
+---
+
+h2. Venue
+
+KESW 2014 is expected to take place in the "IT Park":http://itpark-kazan.ru/en, a recently constructed high-tech center in Kazan. The park features a modern business center with a conference hall, a cafeteria, a business hotel, and various other facilities. It's easily accessible by public transportation.
+
+h2. Travel information
+
+h3. By plane
+
+The "Kazan airport":http://www.kazan.aero/ operates direct flights from Moscow (up to 14 flights daily) and a number of international destinations including Frankfurt, Munich, Prague, Istanbul, and Tel Aviv. A round‐trip ticket for the 90‐minute flight from/to Moscow starts from 95 EUR (operated by Aeroflot Airlines, Siberia Airlines, Transaero Airlines and others). The prices for round‐trip tickets from major European airports, with connection flights from Moscow, range between 300 and 500 EUR. 
+
+Kazan airport is located 27 kilometers southeast of Kazan. A taxi ride from the airport to the city center takes about 30 minutes and costs 700 RUB (17 EUR). The new "Aeroexpress":http://aeroexpress.ru/en/regions/kazan.html railway line allows for a 20‐minute transfer from the airport terminal to the Kazan railway terminal. 
+
+h3. By train
+ 
+A number of low‐cost airlines operate flights to Moscow from various European cities, e.g. Brussels Airlines, TUIfly, Wind Jet, Meridiana, Germanwings, AirBerlin, AirBaltic, and Niki. So a combination of a flight to Moscow and an overnight train from Moscow to Kazan might be a cheaper option that gives the participants the additional opportunity to visit the Russian capital. A train trip from Moscow takes about 12 hours and arrives at Kazan’s railroad station which is located in the city center. One‐way sleeping‐carriage ticket costs about 2,500 RUB (60 EUR).
+
+h2. Visa information
+
+If necessary, the organizers are able to provide official invitation letters for already registered conference participants. The time needed for issuing such letters and their type varies for three categories of participants:
+
+h3. EU and US citizens
+
+For EU and US citizens issuing such letters depends on the organizers only and may take up to 1-2 weeks from the time of request (not counting the time of sending it by post, if necessary). In this case, participants need to apply for "Humanitarian Visa with scientific-technical purpose" at the Russian Consulate in the country of their residence.
+
+h3. Non-EU and non-US citizens requiring visa to travel to Russia
+
+For non-EU/non-US citizens the issued invitation letters need to be registered with the Russian Ministry of Foreign Affairs by the organizers and that may take from 2 to 4 weeks from the time of request (not counting the time of sending it by post, if necessary). In this case, participants need to apply for "Humanitarian Visa with scientific-technical purpose" at the Russian Consulate in the country of their residence.
+
+In order to request an official invitation letter, please, email the organizers.
+
+We recommend that non-EU/non-US visitors apply for tourist visas which do not require our official invitation letters since that often simplifies the application. In order to apply for a Tourist visa, each participant just needs to ask the hotel, where his/her accommodation is booked, to issue him/her a special tourist voucher (also sometimes called "Visa Support"), which is not the usual booking confirmation. Please, note that you _must_ explicitly request such a voucher from the hotel and it will not be given to you by default.
+
+To avoid uncertainty, participants are advised to apply for a visa as early as possible. In general, it is recommended that they apply for a Russian visa at least 6 weeks in advance.
+
+"List of Russian embassies/consulates abroad":http://en.wikipedia.org/wiki/List_of_diplomatic_missions_of_Russia
+
+h2. About Kazan 
+
+Kazan is a beautiful city, where the geographical and cultural aspects of both Europe and Asia come together. Kazan, about 800 km east of Moscow, lies on the confluence of the Europe's largest river, the Volga, and the Kazanka River. The population of Kazan is about 1.1 million people. Kazan has a continental climate with warm, dry summers. In September, the average day temperature is 16°C. 
+
+In 2005, the city celebrated its millennium anniversary. Kazan's historical center features magnificent buildings in varied architectural styles, where mansions in modernist style coexist with Baroque monuments. The Kazan Kremlin is the central historic citadel of the city. It was built the behest of tsar Ivan the Terrible on the ruins of the castle of Kazan khans. The architectural ensemble of the Kazan Kremlin is renowned for its many ancient buildings, the oldest being the Annunciation Cathedral, a 16th-century Russian Orthodox church. The Qolsharif Mosque, erected in the 16th century and recently renovated, is another top landmark of Kazan's architectural landscape. The Kazan Kremlin has been listed as a World Heritage Site since 2000. 
+
+Despite its age, Kazan is a dynamically developing modern city and the capital of the Republic of Tatarstan, one of Russia's fastest-growing economies. The major sectors of Tatarstan's economy are the mining, petroleum, chemical and agricultural industries, as well as production of helicopters and boats. An innovative economy is represented in Kazan by "Kazan IT Park", the largest IT-park in Russia. IT-park infrastructure consists of three main subdivisions: Business Incubator (office facilities for start-up projects), Innovative Technology Center (production facilities for innovative companies) and Business Park (office facilities for service and developing companies). 
+
+In April 2009, the Russian Patent Office granted Kazan the right to use the brand name of "the Third Capital" of Russia - after Moscow, the official capital of Russia, and St.-Petersburg, the unofficial "northern" capital. Kazan is world-renowned for its sports achievements. Kazan was named the Sports Capital of Russia by the research conducted by Russian mass media and the Russian Ministry of Sports, Tourism and Youth Affairs of the Russian Federation. Moreover, Kazan will host the 2013 Summer Universiade. 
+
+Kazan is also famous for its Concert Hall and Opera House where Fedor Shalyapin opera festival and Rudolf Nureyev ballet festival are exclusively held. National Museum of the Republic of Tatarstan, founded in 1895, houses a rich collection of items on the natural history of the region, Egyptian and antique artifacts, and collections of golden coins, ancient books and folk art of the Tatar people. One of the most popular places for tourists is Bauman Street, a pedestrian area that stretches 1.3 kilometers from the Kremlin to Tukai Square in the city center. The city's oldest street features buildings from different historic periods and is a thoroughfare with shops, cafes, restaurants and clubs.

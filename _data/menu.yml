@@ -19,6 +19,9 @@
   label: Organization
   path: /organization/
 - 
+  label: Attending
+  path: /attending/
+- 
   label: Become a Sponsor
   path: /becomeasponsor/
 -
