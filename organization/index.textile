@@ -6,7 +6,7 @@ published: true
 
 h3. Main organizers
 
-*General Chair:* Dmitry Mouromtsev, NRU ITMO, St.Petersburg, Russia
+*General Chair:* Dmitry Mouromtsev, University ITMO, St.Petersburg, Russia
 
 *Program Chair:* "Pavel Klinov":http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html, University of Ulm, Germany
 
@@ -18,49 +18,49 @@ Vladimir Ivanov, Kazan Federal University
 h3. Program committee
 
 Darya Tarasowa, University of Bonn, Germany
-Yue	Ma, Technical University of Dresden, Germanu
+Yue	Ma, Technical University of Dresden, Germany
 Irina Radchenko, Higher School of Economics, Russia
-Igor Bessmertny, NRU ITMO, Russia		
+Igor Bessmertny, University ITMO, Russia		
 Denis Ponomaryov, University of Ulm, Germany		
 Julia Taylor, Purdue University, USA		
 Marvin Schiller, University of Ulm, Germany
 Amrapali Zaveri, University of Lepzig, Germany	
-Alexander Boukhanovsky, NRU ITMO, Russia
+Alexander Boukhanovsky, University ITMO, Russia
 Roman Kontchakov, Birkbeck College, UK
 Dmitriy Zheleznyakov, University of Oxford, UK
 Evgeny Kharlamov, University of Oxford, UK		
 Martin Homola, Comenius University, Slovakia		
-Serge Yablonsky, St. Petersburg State University, Russian
-Dmitry Kudryavtsev, Business Engineering Group, St. Petersburg State Polytechnical University, Russia		
+Serge Yablonsky, St.Petersburg State University, Russian
+Dmitry Kudryavtsev, Business Engineering Group, St.Petersburg State Polytechnical University, Russia		
 Samantha Bail, Flatiron Health, US
-Ivan Ermilov, University of Leipzig, Germany		
-Joerg Unbehauen, University of Leipzig, Germany		
-Ioan Toma, STI Innsbruck, Austria	
-Timofey Ermilov, University of Leipzig, Germany		
-Rafael Peñaloza, Technical University of Dresden, Germany		
+Ivan Ermilov, University of Leipzig, Germany	
+Joerg Unbehauen, University of Leipzig, Germany
+Ioan Toma, STI Innsbruck, Austria
+Timofey Ermilov, University of Leipzig, Germany
+Rafael Peñaloza, Technical University of Dresden, Germany
 Natalya Keberle, Zaporizhzhya National University, Ukraine
 Chiara	Del Vescovo, University of Manchester, UK
 Jose Emilio	Labra Gayo, Universidad de Oviedo, Spain
 Dmitry	Ignatov, Higher School of Economics, Russia
 Dmitry Tsarkov, University of Manchester, UK
-Jakub Klimek, Charles University, Prague	
-Svetlana Popova, Saint-Petersburg State University, Saint-Petersburg State Polytechnic University, Russia
-Sören Auer, University of Bonn, Germany	
-Trung-Kien Tran, University of Ulm, Germany	
+Jakub Klimek, Charles University, Prague
+Svetlana Popova, St.Petersburg State University, St.Petersburg State Polytechnic University, Russia
+Sören Auer, University of Bonn, Germany
+Trung-Kien Tran, University of Ulm, Germany
 Daria Stepanova, Technical University of Vienna, Austria
 Konrad Höffner, University of Leipzig, Germany
-Daniel Hladky, Ontos AG, Switzerland		
+Daniel Hladky, Ontos AG, Switzerland
 Bijan Parsia, University of Manchester, UK
-Boris Konev, University of Liverpool, UK	
-Sergey Balandin, FRUCT, Russia	
-Valery Rubashkin, Saint-Petersburg State University, Russia
+Boris Konev, University of Liverpool, UK
+Sergey Balandin, FRUCT, Russia
+Valery Rubashkin, St.Petersburg State University, Russia
 Nicolas	Matentzoglu, University of Manchester, UK
 Tatiana	Gavrilova, St.Petersburg State University, Russia
 Rafael S. Gonçalves, University of Manchester, UK
-Matthew	Horridge, Stanford University, US		
+Matthew	Horridge, Stanford University, US
 Mathieu	D'Aquin, Open University, UK
 Andriy	Nikolov, fluid Operations AG, Germany
-Ali	Khalili,	University of Leipzig, Germany
-Alessandro Adamou,	ISTC-CNR, Italy
-Anna	Szkudlarek, Grenoble Graduate School of Business, France
+Ali	Khalili, University of Leipzig, Germany
+Alessandro Adamou, ISTC-CNR, Italy
+Anna Szkudlarek, Grenoble Graduate School of Business, France
 Vladimir Gorovoy, Yandex, Russia
