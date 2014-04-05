@@ -21,6 +21,9 @@
 - 
   label: Attending
   path: /attending/
+-
+  label: Keynote Speakers
+  path: /keynotespeakers/
 - 
   label: Become a Sponsor
   path: /becomeasponsor/
