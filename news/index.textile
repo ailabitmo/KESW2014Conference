@@ -4,6 +4,12 @@ title: News
 published: true
 ---
 
+h3. April 16, 2014: Student Support
+
+We encourage undergraduate and postgraduate students to apply for the conference registration fee waiver (aka "free registration"). The number of free registrations is limited (and yet unknown) and they will be distributed among the students with accepted papers on the first come first serve basis. To apply, send an email to the PC chair ("Pavel Klinov":mailto:pavel.klinov@uni-ulm.de). Please attach a letter from the supervisor to justify the need of funding to attend the conference.
+
+Student support application deadline is end of August 2014.
+
 h3. March 09, 2014: Springer Proceedings
 
 We are happy to announce that the proceedings of KESW 2014 will be published in the Springer's "Communications in Computer and Information Science":http://link.springer.com/bookseries/7899 (CCIS) series. The papers will be abstracted/indexed by DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, and Scopus. This is similar to the "last year's proceedings":http://link.springer.com/book/10.1007%2F978-3-642-41360-5. 
