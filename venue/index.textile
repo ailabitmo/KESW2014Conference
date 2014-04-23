@@ -1,0 +1,30 @@
+---
+layout: page
+title: Venue
+---
+
+!http://2014.kesw.ru/resources/it_park.jpg!
+
+p<>. KESW 2014 is expected to take place in the "IT Park":http://itpark-kazan.ru/en, a recently constructed high-tech center in Kazan. The park features a modern business center with a conference hall, a cafeteria, a business hotel, and various other facilities. It's easily accessible by public transportation.
+
+h3. Address:
+
+"High Technology Technopark IT-park":http://itpark-kazan.ru/en
+52 Peterburgskaya st., Kazan, Tatarstan 420074
+Tel. +7 (843) 235-14-75, E-mail: it.park@tatar.ru
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2243.73339920737!2d49.133525999999996!3d55.780502!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x415ead0888e2f61d%3A0xc135cfd18efc3776!2sUlitsa+Peterburgskaya%2C+52%2C+Kazan%2C+Respublika+Tatarstan%2C+Russia!5e0!3m2!1sen!2s!4v1398232001790" width="400" height="300" frameborder="0" style="border:0"></iframe></center>
+
+h2. About Kazan
+
+!http://2014.kesw.ru/resources/kazan_fina.jpg!Photo (c) by FINA.org
+
+Kazan is a beautiful city, where the geographical and cultural aspects of both Europe and Asia come together. Kazan, about 800 km east of Moscow, lies on the confluence of the Europe's largest river, the Volga, and the Kazanka River. The population of Kazan is about 1.1 million people. Kazan has a continental climate with warm, dry summers. In September, the average day temperature is 16°C. 
+
+In 2005, the city celebrated its millennium anniversary. Kazan's historical center features magnificent buildings in varied architectural styles, where mansions in modernist style coexist with Baroque monuments. The Kazan Kremlin is the central historic citadel of the city. It was built the behest of tsar Ivan the Terrible on the ruins of the castle of Kazan khans. The architectural ensemble of the Kazan Kremlin is renowned for its many ancient buildings, the oldest being the Annunciation Cathedral, a 16th-century Russian Orthodox church. The Qolsharif Mosque, erected in the 16th century and recently renovated, is another top landmark of Kazan's architectural landscape. The Kazan Kremlin has been listed as a World Heritage Site since 2000. 
+
+Despite its age, Kazan is a dynamically developing modern city and the capital of the Republic of Tatarstan, one of Russia's fastest-growing economies. The major sectors of Tatarstan's economy are the mining, petroleum, chemical and agricultural industries, as well as production of helicopters and boats. An innovative economy is represented in Kazan by "Kazan IT Park", the largest IT-park in Russia. IT-park infrastructure consists of three main subdivisions: Business Incubator (office facilities for start-up projects), Innovative Technology Center (production facilities for innovative companies) and Business Park (office facilities for service and developing companies). 
+
+In April 2009, the Russian Patent Office granted Kazan the right to use the brand name of "the Third Capital" of Russia - after Moscow, the official capital of Russia, and St.-Petersburg, the unofficial "northern" capital. Kazan is world-renowned for its sports achievements. Kazan was named the Sports Capital of Russia by the research conducted by Russian mass media and the Russian Ministry of Sports, Tourism and Youth Affairs of the Russian Federation. Moreover, Kazan will host the 2013 Summer Universiade. 
+
+Kazan is also famous for its Concert Hall and Opera House where Fedor Shalyapin opera festival and Rudolf Nureyev ballet festival are exclusively held. National Museum of the Republic of Tatarstan, founded in 1895, houses a rich collection of items on the natural history of the region, Egyptian and antique artifacts, and collections of golden coins, ancient books and folk art of the Tatar people. One of the most popular places for tourists is Bauman Street, a pedestrian area that stretches 1.3 kilometers from the Kremlin to Tukai Square in the city center. The city's oldest street features buildings from different historic periods and is a thoroughfare with shops, cafes, restaurants and clubs.
