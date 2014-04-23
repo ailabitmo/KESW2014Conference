@@ -21,6 +21,13 @@
 - 
   label: Attending
   path: /attending/
+  children:
+    -
+      label: Accommodation
+      path: /accommodation/
+    -
+      label: Venue
+      path: /venue/
 -
   label: Keynote Speakers
   path: /keynotespeakers/
