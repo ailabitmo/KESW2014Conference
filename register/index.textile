@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Accommodation
+title: Register
 ---
 
 To be published. Follow "@keswconference":https://twitter.com/keswconference
-

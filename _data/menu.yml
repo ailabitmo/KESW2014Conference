@@ -5,6 +5,9 @@
 - 
   label: News
   path: /news/
+-
+  label: Register
+  path: /register/
 - 
   label: Calls
   path: /calls/
@@ -34,9 +37,9 @@
 -
   label: Keynote Speakers
   path: /keynotespeakers/
-- 
-  label: Become a Sponsor
-  path: /becomeasponsor/
+#- 
+#  label: Become a Sponsor
+#  path: /becomeasponsor/
 -
   label: Contacts
   path: /contacts/
