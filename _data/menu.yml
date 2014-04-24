@@ -23,6 +23,9 @@
   path: /attending/
   children:
     -
+      label: About Kazan
+      path: /aboutkazan/
+    -
       label: Accommodation
       path: /accommodation/
     -
