@@ -5,7 +5,7 @@ published: true
 ---
 
 
-h3. May 2nd, 2014: Deadline Extension
+h3. May 2, 2014: Deadline Extension
 
 Deadlines for submitting abstracts and full papers to the research, industry, and system description tracks have been extended to May 9th (abstracts) and May 16th (full papers). We look forward to your submissions!
 
