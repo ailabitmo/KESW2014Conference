@@ -4,6 +4,11 @@ title: News
 published: true
 ---
 
+
+h3. May 2nd, 2014: Deadline Extension
+
+Deadlines for submitting abstracts and full papers to the research, industry, and system description tracks have been extended to May 9th (abstracts) and May 16th (full papers). We look forward to your submissions!
+
 h3. April 16, 2014: Student Support
 
 We encourage undergraduate and postgraduate students to apply for the conference registration fee waiver (aka "free registration"). The number of free registrations is limited (and yet unknown) and they will be distributed among the students with accepted papers on the first come first serve basis. To apply, send an email to the PC chair ("Pavel Klinov":mailto:pavel.klinov@uni-ulm.de). Please attach a letter from the supervisor to justify the need of funding to attend the conference.
