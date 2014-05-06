@@ -3,4 +3,16 @@ layout: page
 title: Register
 ---
 
-To be published. Follow "@keswconference":https://twitter.com/keswconference
+More details will be published soon. Follow "@keswconference":https://twitter.com/keswconference
+
+h2. Registration Fees
+
+|_. Date of registration |_. Regular fee |_. Academic fee |_. Student fee |
+| Early | €100 | €75 | €50 |
+| Late/On-site | €200 | €150 | €100 |
+
+**Early conference registration deadline: August 29, 2014**
+
+h2. Student support
+
+Read more about student support "here":http://localhost:4000/news/.
