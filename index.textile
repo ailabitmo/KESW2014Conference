@@ -11,7 +11,7 @@ p=. "Kazan":http://en.wikipedia.org/wiki/Kazan, Russia
 
 bq.. *Latest news:* 
 
-May 2nd, 2014: Research/industry paper submission deadlines are shifted to May 9th (abstract) and May 16th (full paper).
+May 2nd, 2014: Research/industry paper submission deadlines are shifted to May 11th (abstract) and May 16th (full paper).
 
 April 16, 2014: "Student support announced":http://2014.kesw.ru/attending/
 
