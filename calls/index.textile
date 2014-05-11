@@ -65,6 +65,16 @@ p<>. For the industry track we solicit papers that describe practical experience
 * Description and analysis of concrete problems and user requirements for applying Semantic Web technologies in specific industry domains
 * Analysis and evaluation of usability, assessment of pros and cons of using Semantic Web technologies in real-world scenarios including models of investment justifications (ROI)
 
+h3. EDUCATION TRACK
+
+p<>. For educational  track we welcome novel papers describing experience and analytics in opening and linking educational data as well as building applications for education based on semantic technologies. Topics of interest include but are not limited to:
+
+* Opening and linking educational data
+* Ontology models and semantic standards for educational data
+* Visual analytics for educational resources represented using semantic technologies
+* Teaching semantic technologies
+* System descriptions and best practices in linked learning
+
 h3. System Descriptions
 
 p<>. We invite submissions which describe architecture, design, implementation, or experiments with existing systems which use semantic technologies. Preliminary reports describing research prototypes are welcome, too. The papers should explain how the use of semantic technologies helps to solve specific problems and/or is beneficial for the users. The authors will be given an opportunity to demonstrate their system during the poster and demo session at the conference. 
@@ -81,7 +91,7 @@ p=. "Submission page is now open":https://www.easychair.org/conferences/?conf=ke
 
 h3. Size restrictions
 
-* Research and industry papers: 15 pages including references.
+* Research, industry, and educational tracks: 15 pages including references.
 * System description papers: 10 pages including references.
 * Posters: 2 page abstract. 
 
@@ -92,6 +102,11 @@ h3. IMPORTANT DATES
 Research papers, industry papers and system descriptions:
 * Abstract submission: -May 2nd, 2014- May 12th, 2014 (extended)
 * Full paper submission: -May 9th, 2014- May 16th, 2014 (extended)
+* Author notification: June 20th, 2014
+* Camera-ready submission: July 4th, 2014
+
+Educational track papers:
+* Full paper submission: May 23rd, 2014
 * Author notification: June 20th, 2014
 * Camera-ready submission: July 4th, 2014
 
