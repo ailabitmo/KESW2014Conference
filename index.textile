@@ -17,7 +17,7 @@ May 2nd, 2014: Research/industry paper submission deadlines are shifted to May 1
 
 April 16, 2014: "Student support announced":http://2014.kesw.ru/attending/
 
-###March 09, 2014: Just as "last year":http://link.springer.com/book/10.1007%2F978-3-642-41360-5, the proceedings of KESW 2014 will be published in the Springer "Communications in Computer and Information Science":http://link.springer.com/bookseries/7899 (CCIS) series. The papers will be abstracted/indexed by DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, and Scopus.
+###. March 09, 2014: Just as "last year":http://link.springer.com/book/10.1007%2F978-3-642-41360-5, the proceedings of KESW 2014 will be published in the Springer "Communications in Computer and Information Science":http://link.springer.com/bookseries/7899 (CCIS) series. The papers will be abstracted/indexed by DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, and Scopus.
 
 p<>. KESW 2014 will be the 5th conference in the series. KESW is a top international event taking place in Russia and dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions.
 
