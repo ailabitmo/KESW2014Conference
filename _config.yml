@@ -1,7 +1,7 @@
 name: KESW 2014 Conference
 url: http://2014.kesw.ru
 markdown: redcarpet
-pygments: true
+highligther: pygments
 safe: true
 encoding: UTF-8
 exclude: []
