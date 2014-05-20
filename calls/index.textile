@@ -87,7 +87,8 @@ h3. SUBMISSION
 
 p<>. All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via Easychair.
 
-p=. "Submission page is now open":https://www.easychair.org/conferences/?conf=kesw2014
+p=. "Submission page is now CLOSED":https://www.easychair.org/conferences/?conf=kesw2014
+(it will be re-open on May 22-23rd to accept submissions for the education track)
 
 h3. Size restrictions
 
