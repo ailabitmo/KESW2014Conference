@@ -16,11 +16,19 @@ p<>. Julia M. Taylor earned her Ph.D. in Computer Science and Engineering in 200
 
 h3. *Stefan Dietze*, L3S Research Center, Germany
 
+*From Data to Knowledge - Profiling and Interlinking Datasets on the Web*
+
+p<>. _While the Web of Data, and in particular Linked Data, has seen tremendous growth over the past years, take-up, usage and reuse of data is still limited and is often focused on well-known reference datasets such as DBpedia, Yago or Freebase. Datasets vary heavily with respect to their characteristics, such as the amount, quality, domain coverage or currency of exposed data. While this heterogeneity is natural, given the distributed nature of Linked Data, it also poses challenges for finding, adopting and reusing data across the Web. This problem is further elevated by the lack of reliable information (or metadata) about such dataset characteristics. Hence, judging the suitability and trustworthyness of arbitrary datasets for a given task is challenging. In addition, the evolving nature of Linked Data calls for scalable and efficient techniques which are able to automatically (re-)compute dataset metadata (profiles) and links. This talk will provide an overview of challenges and ongoing research on dataset profiling and interlinking. Profiling involves the automated extraction of dataset metadata while interlinking investigates methods for linking not only entities across the Web of data but also to identify candidate datasets for interlinking tasks. The talk will introduce background, methods, and resulting datasets aimed towards the overall goal of improving take-up and reuse of Web datasets._.
+
 !{width: 200px; float: left; margin: 10px;}/resources/stefan.dietze.jpg!
 
 p<>. Dr. Stefan Dietze is a Research Group Leader at the L3S Research Center (Germany) which he joined in 2011 following previous positions at the Knowledge Media Institute of The Open University (UK) and the Fraunhofer Institute for Software and Systems Engineering (Germany). His research interests are in Semantic Web and Linked Data technologies and their application to Web data integration problems in actual application domains. Stefan currently is leading the European R&D projects LinkedUp (http://linkedup-project.eu) and DURAARK (http://duraark.eu), both dealing with advancing Linked Data technologies and their take-up in real-world application settings. He also is involved in a number of other projects and initiatives in the Semantic Web area and is co-chair of the KEYSTONE (http://www.keystone-cost.eu/) working group on "Representation of Structured Data Sources". His work has been published in numerous conferences and journals, he is member of many organisation and programme committees and editorial boards and a frequent invited speaker.
 
 h3. *Vladimir Gorodetski*, SPIIRAN, Russia
+
+*Ontologies in Recommendation Systems*
+
+p<>. _Abstract TBD_
 
 !{width: 200px; float: left; margin: 10px;}/resources/vladimir.gorodetski.jpg!
 
