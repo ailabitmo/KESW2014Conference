@@ -87,7 +87,8 @@ h3. SUBMISSION
 
 p<>. All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via Easychair.
 
-p=. "Submission page is now open":https://www.easychair.org/conferences/?conf=kesw2014
+p=. "Submission page is now CLOSED":https://www.easychair.org/conferences/?conf=kesw2014
+(it will be re-open on May 22-23rd to accept submissions for the education track)
 
 h3. Size restrictions
 
@@ -100,10 +101,10 @@ bq. _We strongly encourage all authors to prepare their submissions according to
 h3. IMPORTANT DATES
 
 Research papers, industry papers and system descriptions:
-* Abstract submission: -May 2nd, 2014- May 12th, 2014 (extended)
-* Full paper submission: -May 9th, 2014- May 16th, 2014 (extended)
-* Author notification: June 20th, 2014
-* Camera-ready submission: July 4th, 2014
+* Abstract submission: -May 2nd, 2014- May 12th, 2014 
+* Full paper submission: -May 9th, 2014- May 16th, 2014 
+* Author notification: -June 20th, 2014- June 29th, 2014 
+* Camera-ready submission: -July 4th, 2014- July 11th, 2014
 
 Educational track papers:
 * Full paper submission: May 23rd, 2014
