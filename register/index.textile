@@ -15,4 +15,4 @@ h2. Registration Fees
 
 h2. Student support
 
-Read more about student support "here":http://localhost:4000/news/.
+Read more about student support "here":/news/.
