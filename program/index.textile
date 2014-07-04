@@ -5,30 +5,30 @@ title: Accepted papers
 
 h3. ACCEPTED PAPERS
 
-p<>. Below is the list of accepted papers for the Research and Industry Track:
+p<>. *Research and Industry track papers:*
 
-* Sergey Gorshkov: Access Control, Triggers, and Versioning over SPARQL Endpoint
-* Galina Artemova, Kirill Boyarsky, Dmitri Gouzévitch, Natalia Gusarova, Natalia Dobrenko, Eugeny Kanevsky and Daria Petrova:	Text Categorization for Generation of Historical Shipbuilding Ontology		
-* Daniel Hladky, Martin Voigt and Svetlana Maltseva:	Return on Investment (ROI) in Linking Content to CRM by Applying the Linked Data Stack
-* Alfiya Galieva, Olga Nevzorova and Ayrat Gatiatullin:	Towards Building Wordnet for Tatar Language: Semantic Model of the Verb System
-* Pavel Lomov and Maxim Shishaev	Cognitive Frames Formation Based on Ontology Design Patterns for Ontology Visualization
-* Nataliya Yelagina and Michail Panteleyev:	Deriving Thematic Facts from Unstructured Texts and Background Knowledge
-* Pavel Smirnov and Sergey Kovalchuk:	Linked Data Acquisition Model for Workflow-based Computational Experiments
-* Frederik Schadd and Nico Roos:	A Feature Selection Approach for Anchor Evaluation in Ontology Mapping
-* Viktoria Foteeva and Michail Panteleev:	Construction of Personalized Information Services for Researchers
-* Dmitry Ustalov:	Words Worth Attention: Predicting words of the Week on the Russian Wiktionary
-* Sherimon P.C., Vinu P.V. and Reshmy Krishnan:	Ontology Driven Analysis and Prediction of Patient Risk in Diabetes
-* Nikolay Teslya, Alexander Smirnov, Tatiana Levashova and Nikolay Shilov:	Ontology for Resource Self-Organisation in Cyber-Physical-Social Systems
-* Galina Rybina and Yuri Blokhin:	Distributed Knowledge Acquisition Control with Use of Intelligent Program Environment of AT-TECHNOLOGY Workbench
-* Oleg Dyachenko and Yury Zagorulko:	A Collaborative Development of Ontology-based Knowledge Bases
-* Denis Zuev, Alexander Elizarov and Evgeniy Lipachev:	Semantic Methods of Structuring Mathematical Content and Open Scientific E-journals Management Systems
-* Olga Nevzorova, Nikita Zhiltsov, Alexander Kirillovich and Evgeny Lipachev:	OntoMathPro Ontology: A Linked Data Hub for Mathematics
-* Janneth Chicaiza, Nelson Piedra, Jorge López and Edmundo Tovar:	Domain categorization of Open Educational Resources Based on Linked Data Sources
-* Yuliya Rubtsova:	Automatic Term Extraction for Sentiment Classification of Dynamically Updated Text Collections into Three Classes
-* Rivindu Perera and Parma Nand: Interaction History Based Answer Formulation for Question Answering
-* Rustem Dautov, Iraklis Paraskakis and Mike Stannett	Cloud Sensor Ontology and Linked Data to Support Autonomicity in Cloud Application Platforms
+* Sergey Gorshkov: _Access Control, Triggers, and Versioning over SPARQL Endpoint_
+* Galina Artemova, Kirill Boyarsky, Dmitri Gouzévitch, Natalia Gusarova, Natalia Dobrenko, Eugeny Kanevsky and Daria Petrova:	_Text Categorization for Generation of Historical Shipbuilding Ontology_
+* Daniel Hladky, Martin Voigt and Svetlana Maltseva: _Return on Investment (ROI) in Linking Content to CRM by Applying the Linked Data Stack_
+* Alfiya Galieva, Olga Nevzorova and Ayrat Gatiatullin: _Towards Building Wordnet for Tatar Language: Semantic Model of the Verb System_
+* Pavel Lomov and Maxim Shishaev: _Cognitive Frames Formation Based on Ontology Design Patterns for Ontology Visualization_
+* Nataliya Yelagina and Michail Panteleyev:	_Deriving Thematic Facts from Unstructured Texts and Background Knowledge_
+* Pavel Smirnov and Sergey Kovalchuk:	_Linked Data Acquisition Model for Workflow-based Computational Experiments_
+* Frederik Schadd and Nico Roos: _A Feature Selection Approach for Anchor Evaluation in Ontology Mapping_
+* Viktoria Foteeva and Michail Panteleev:	_Construction of Personalized Information Services for Researchers_
+* Dmitry Ustalov:	Words Worth Attention: _Predicting words of the Week on the Russian Wiktionary_
+* Sherimon P.C., Vinu P.V. and Reshmy Krishnan:	_Ontology Driven Analysis and Prediction of Patient Risk in Diabetes_
+* Nikolay Teslya, Alexander Smirnov, Tatiana Levashova and Nikolay Shilov: _Ontology for Resource Self-Organisation in Cyber-Physical-Social Systems_
+* Galina Rybina and Yuri Blokhin:	_Distributed Knowledge Acquisition Control with Use of Intelligent Program Environment of AT-TECHNOLOGY Workbench_
+* Oleg Dyachenko and Yury Zagorulko: _A Collaborative Development of Ontology-based Knowledge Bases_
+* Denis Zuev, Alexander Elizarov and Evgeniy Lipachev: _Semantic Methods of Structuring Mathematical Content and Open Scientific E-journals Management Systems_
+* Olga Nevzorova, Nikita Zhiltsov, Alexander Kirillovich and Evgeny Lipachev:	_OntoMathPro Ontology: A Linked Data Hub for Mathematics_
+* Janneth Chicaiza, Nelson Piedra, Jorge López and Edmundo Tovar:	_Domain Categorization of Open Educational Resources Based on Linked Data Sources_
+* Yuliya Rubtsova: _Automatic Term Extraction for Sentiment Classification of Dynamically Updated Text Collections into Three Classes_
+* Rivindu Perera and Parma Nand: _Interaction History Based Answer Formulation for Question Answering_
+* Rustem Dautov, Iraklis Paraskakis and Mike Stannett: _Cloud Sensor Ontology and Linked Data to Support Autonomicity in Cloud Application Platforms_
 
-p<>. System Description papers:
+p<>. *System Description papers:*
 
-* Fedor Kozlov:	A Tool to Convert Linked Data of E-Learning System to the SCORM Standard
-* Abdul Mateen Rajput, Marzio Pennisi, Santo Motta and Francesco Pappalardo:	OntoFast: Construct Ontology Rapidly
+* Fedor Kozlov:	_A Tool to Convert Linked Data of E-Learning System to the SCORM Standard_
+* Abdul Mateen Rajput, Marzio Pennisi, Santo Motta and Francesco Pappalardo: _OntoFast: Construct Ontology Rapidly_
