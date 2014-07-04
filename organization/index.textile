@@ -65,4 +65,15 @@ Ali Khalili, University of Leipzig, Germany
 Alessandro Adamou, ISTC-CNR, Italy
 Anna Szkudlarek, Grenoble Graduate School of Business, France
 Vladimir Gorovoy, Yandex, Russia
-Nikita Zhiltsov, Kazan Federal University
+Nikita Zhiltsov, Kazan Federal University, Russia
+Elena	Mozzherina, Saint-Petersburg State University, Russia
+
+h3. Additional reviewers:
+
+Chaosheng Fan, Technical University of Dresden, Germany
+Liubov Kovriguina, University ITMO, St.Petersburg, Russia
+Ruslan Fayzrakhmanov, Technical University of Vienna, Austria 
+Muhammad Saleem, University of Leipzig, Germany 
+Edgard Marx, University of Leipzig, Germany 
+Mofeed Hassan, University of Leipzig, Germany 
+Martin Brümmer, University of Leipzig, Germany 
