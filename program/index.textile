@@ -3,9 +3,7 @@ layout: page
 title: Accepted papers
 ---
 
-h3. ACCEPTED PAPERS
-
-p<>. *Research and Industry track papers:*
+h3. Research and industry track papers
 
 * Sergey Gorshkov: _Access Control, Triggers, and Versioning over SPARQL Endpoint_
 * Galina Artemova, Kirill Boyarsky, Dmitri Gouzévitch, Natalia Gusarova, Natalia Dobrenko, Eugeny Kanevsky and Daria Petrova:	_Text Categorization for Generation of Historical Shipbuilding Ontology_
@@ -28,7 +26,7 @@ p<>. *Research and Industry track papers:*
 * Rivindu Perera and Parma Nand: _Interaction History Based Answer Formulation for Question Answering_
 * Rustem Dautov, Iraklis Paraskakis and Mike Stannett: _Cloud Sensor Ontology and Linked Data to Support Autonomicity in Cloud Application Platforms_
 
-p<>. *System Description papers:*
+h3. System description papers
 
 * Fedor Kozlov:	_A Tool to Convert Linked Data of E-Learning System to the SCORM Standard_
 * Abdul Mateen Rajput, Marzio Pennisi, Santo Motta and Francesco Pappalardo: _OntoFast: Construct Ontology Rapidly_
