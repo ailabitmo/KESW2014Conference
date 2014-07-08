@@ -4,6 +4,9 @@ title: News
 published: true
 ---
 
+h3. July 7, 2014: RFBR Support
+
+We are grateful to the "Russian Foundation for Basic Research":http://www.rfbr.ru/rffi/eng/about for their generous support!
 
 h3. May 2, 2014: Deadline Extension
 
