@@ -23,3 +23,8 @@ p<>. As last year, all technical sessions (keynotes, paper presentations, poster
 
 p<>. More information will be announced later, stay tuned and "follow us":https://twitter.com/keswconference on Twitter!
 
+<hr/><br/>
+
+p=. Proceedings will be published by Springer in "CCIS":http://www.springer.com/series/7899 series
+!{display: block;margin-left: auto;margin-right: auto; width: 200px;}/resources/springer.jpg!:http://www.springer.com/series/7899
+
