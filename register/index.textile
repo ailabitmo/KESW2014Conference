@@ -19,4 +19,4 @@ h2. Registration
 
 p<>. Find the link to the registration site below. Also please complete our quick pre-conference survey. 
 
-p{font-size: 150%; text-align:center;}. "Registration site":http://onlinereg.ru/aevents2/ae2.php?go=324 & "Pre-conference survey":https://docs.google.com/forms/d/1NK_GsVvTcSHeVeHs-_sS44syPeNlw317vPI-AwtxHqk/viewform?usp=send_form
+p{font-size: 110%; text-align:center;}. >> "Registration site":http://onlinereg.ru/aevents2/ae2.php?go=324 & "Pre-conference survey":https://docs.google.com/forms/d/1NK_GsVvTcSHeVeHs-_sS44syPeNlw317vPI-AwtxHqk/viewform?usp=send_form <<
