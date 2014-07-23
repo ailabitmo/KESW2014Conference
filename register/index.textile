@@ -3,8 +3,6 @@ layout: page
 title: Register
 ---
 
-More details will be published soon. Follow "@keswconference":https://twitter.com/keswconference
-
 h2. Registration Fees
 
 |_. Date of registration |_. Regular fee |_. Academic fee |_. Student fee |
@@ -16,3 +14,9 @@ h2. Registration Fees
 h2. Student support
 
 Read more about student support "here":/news/.
+
+h2. Registration
+
+p<>. Find the link to the registration site below. Also please complete our quick pre-conference survey. 
+
+p{font-size: 150%; text-align:center;}. "Registration site":http://onlinereg.ru/aevents2/ae2.php?go=324 & "Pre-conference survey":https://docs.google.com/forms/d/1NK_GsVvTcSHeVeHs-_sS44syPeNlw317vPI-AwtxHqk/viewform?usp=send_form
