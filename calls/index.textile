@@ -79,9 +79,14 @@ h3. System Descriptions
 
 p<>. We invite submissions which describe architecture, design, implementation, or experiments with existing systems which use semantic technologies. Preliminary reports describing research prototypes are welcome, too. The papers should explain how the use of semantic technologies helps to solve specific problems and/or is beneficial for the users. The authors will be given an opportunity to demonstrate their system during the poster and demo session at the conference. 
 
-h3. Posters
+h3(#pp). Posters and Position Papers
 
-p<>. The poster track is an opportunity to present research through an informal discussion or presentation. We invite submissions relevant to the above topics. Posters may complement submissions to the research and industrial tracks. Furthermore, we explicitly encourage you to submit a poster if your research or industry paper has been accepted. Depending on the density of the final program, the poster authors may be given short slots for flash talks to announce their posters.
+p<>. In addition to oral paper presentations KESW 2014 encourages other forms of contributing to the conference, in particular, posters and position papers. 
+
+* Posters is an opportunity to informally present your research approach and results during the poster session of the conference. It is great for discussing your research in free form with all attendants of the session. Lots of people will be  stopping by your poster and you will have a chance to talk to them, explain what you are doing, and get feedback. Of course, the number of people who will stop depends on how well you design your poster!
+* Position papers are means of presenting preliminary research ideas or proposals. They are particularly suitable for early stage PhD students who would like to discuss their ideas and get feedback before they go deep developing them. 
+
+Submissions for both categories need to be 2 page abstracts describing the method and the results (for posters) or the preliminary ideas (position papers). Selected poster and position paper submissions will be allocated a short 5 minute talk slots during the conference.
 
 h3. SUBMISSION
 
