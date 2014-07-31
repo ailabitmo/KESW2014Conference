@@ -93,7 +93,7 @@ h3. SUBMISSION
 p<>. All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via Easychair.
 
 p=. "Submission page is now CLOSED":https://www.easychair.org/conferences/?conf=kesw2014
-(it will be re-open on May 22-23rd to accept submissions for the education track)
+(it will be re-open in mid August to accept poster and position paper submissions)
 
 h3. Size restrictions
 
@@ -116,6 +116,6 @@ Educational track papers:
 * Author notification: June 20th, 2014
 * Camera-ready submission: July 4th, 2014
 
-Posters:
-* Abstract submission: August 15th, 2014
-* Author notification: August 29th, 2014
+Posters and position papers:
+* Abstract submission: August 29th, 2014
+* Author notification: September 7th, 2014
