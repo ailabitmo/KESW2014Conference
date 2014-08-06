@@ -71,7 +71,7 @@ Elena	Mozzherina, Saint-Petersburg State University, Russia
 h3. Additional reviewers:
 
 Chaosheng Fan, Technical University of Dresden, Germany
-Liubov Kovriguina, University ITMO, St.Petersburg, Russia
+Liubov Kovriguina, ITMO University, Russia
 Ruslan Fayzrakhmanov, Technical University of Vienna, Austria 
 Muhammad Saleem, University of Leipzig, Germany 
 Edgard Marx, University of Leipzig, Germany 

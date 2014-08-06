@@ -6,6 +6,7 @@
 	<tracks>
 		<track number="1">Research</track>
 		<track number="2">Industry</track>
+		<track number="3">System Description</track>
 	</tracks>
 
 	<!-- PC Information -->
@@ -310,6 +311,48 @@
 			<last_name>Mozzherina</last_name>
 			<country>Russia</country>
 			<affiliation>Saint-Petersburg State University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Chaosheng</first_name>
+			<last_name>Fan</last_name>
+			<country>Germany</country>
+			<affiliation>Technical University of Dresden</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Liubov</first_name>
+			<last_name>Kovriguina</last_name>
+			<country>Russia</country>
+			<affiliation>ITMO University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Ruslan</first_name>
+			<last_name>Fayzrakhmanov</last_name>
+			<country>Austria</country>
+			<affiliation>Technical University of Vienna</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Muhammad</first_name>
+			<last_name>Saleem</last_name>
+			<country>Germany</country>
+			<affiliation>University of Leipzig</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Edgard</first_name>
+			<last_name>Marx</last_name>
+			<country>Germany</country>
+			<affiliation>University of Leipzig</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Mofeed</first_name>
+			<last_name>Hassan</last_name>
+			<country>Germany</country>
+			<affiliation>University of Leipzig</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Martin</first_name>
+			<last_name>Brümmer</last_name>
+			<country>Germany</country>
+			<affiliation>University of Leipzig</affiliation>
 		</pc_member>
 		
 	</pc>
