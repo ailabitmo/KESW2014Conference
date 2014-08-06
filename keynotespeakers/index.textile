@@ -24,7 +24,7 @@ p<>. _While the Web of Data, and in particular Linked Data, has seen tremendous 
 
 p<>. Dr. Stefan Dietze is a Research Group Leader at the L3S Research Center (Germany) which he joined in 2011 following previous positions at the Knowledge Media Institute of The Open University (UK) and the Fraunhofer Institute for Software and Systems Engineering (Germany). His research interests are in Semantic Web and Linked Data technologies and their application to Web data integration problems in actual application domains. Stefan currently is leading the European R&D projects LinkedUp (http://linkedup-project.eu) and DURAARK (http://duraark.eu), both dealing with advancing Linked Data technologies and their take-up in real-world application settings. He also is involved in a number of other projects and initiatives in the Semantic Web area and is co-chair of the KEYSTONE (http://www.keystone-cost.eu/) working group on "Representation of Structured Data Sources". His work has been published in numerous conferences and journals, he is member of many organisation and programme committees and editorial boards and a frequent invited speaker.
 
-h3. *Vladimir Gorodetski*, SPIIRAN, Russia
+h3. *Vladimir Gorodetsky*, St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences
 
 *Ontology and User Profiling in 3G Recommender Systems*
 
