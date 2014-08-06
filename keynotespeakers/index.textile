@@ -26,9 +26,17 @@ p<>. Dr. Stefan Dietze is a Research Group Leader at the L3S Research Center (Ge
 
 h3. *Vladimir Gorodetski*, SPIIRAN, Russia
 
-*Ontologies in Recommendation Systems*
+*Ontology and User Profiling in 3G Recommender Systems*
 
-p<>. _Abstract TBD_
+p<>. _3G recommender system (3G RecSys) is a novel and, in basic aspects, forthcoming paradigm of human decision support/prediction system. It is expected that  3G RecSys  will operate based on human-like semantic categories in knowledge representation, knowledge discovery and knowledge usage. According to the experts’ opinion, 3G RecSys will focus on semantically transparent personal user profile structuring his/her multidimensional personal interests and preferences. 3G RecSys  will bring some novel perspectives from data mining and knowledge discovery, while emphasizing user’s decision explanation as well as detection of context-aware causality and incentives determining this or that user’s choice. As an effect of these capabilities, 3G RecSys should be capable, in what concerns with recommendation proposed by it, to answer “why?“ questions using explanatory user interface._ 
+
+p<>. _At present days, ontology is recognized as the most natural well-developed modeling framework that is capable to support for 3G RecSys operation with semantic categories specifically tuned for human-like knowledge-based reasoning what is the main expected property of user’s interest representation and its usage in recommendation procedure. Although ontology-based user profile model is being developed from recent times only, to present days, it has become about mature approach._
+
+p<>. _The talk will present a critical survey on current state-of-the-art with ontology-based user profiling for 3G RecSys. In fact, the reviewed publications prepared the modern viewpoint on the role of ontology as a unified conceptual knowledge modeling framework and knowledge representation structure for 3G RecSys. In the talk, after short introduction into RecSys and into existing user profiling and decision making approaches, an overview of the earlier and contemporary research on ontology-based used profile modeling will be presented._ 
+
+p<>. _Next, the novel problems of ontology design inspired by specific data sources available for user profile learning will be highlighted. One of such data sources is the set of tags assigned by users to the web information concerning with particular products or services. Tag-based information is capable to provide for semantic enrichment of the recommendation domain ontology and, consequently, user profile. The talk analyses some aspect of tag-based automated ontology categorization for user profiling using wikification and folksonomies. One more such novel information source that will be outlined in the talk is social network context._ 
+
+p<>. _In conclusion, some perspectives for ontology-based user profile learning using both Formal Concept Analysis and Causality Analysis, as well as the author’s experience in this respect are outlined._
 
 !{width: 200px; float: left; margin: 10px;}/resources/vladimir.gorodetski.jpg!
 
