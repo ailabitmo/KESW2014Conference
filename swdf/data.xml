@@ -14,68 +14,302 @@
 	<pc>
 		<pc_member>
 			<first_name>Darya</first_name>
-			<last_name>Abramowicz</last_name>
-			<country>Poland</country>
-			<homepage>http://www.kie.ae.poznan.pl/members/wabramowicz/</homepage>
-			<email>#######</email>
-			<affiliation>Poznan University of Economics</affiliation>
-		</pc_member>
-		<pc_member>
-			<first_name>Diego</first_name>
-			<last_name>Berrueta</last_name>
-			<country>Spain</country>
-			<homepage></homepage>
-			<email>#######</email>
-			<affiliation>Fundación CTIC</affiliation>
-		</pc_member>
-		<pc_member>
-			<first_name>Chris</first_name>
-			<last_name>Bizer</last_name>
+			<last_name>Tarasowa</last_name>
 			<country>Germany</country>
-			<homepage>http://www.wiwiss.fu-berlin.de/en/institute/pwo/bizer/index.html</homepage>
-			<email>#######</email>
-			<affiliation>Freie Universität Berlin</affiliation>
+			<affiliation>University of Bonn</affiliation>
 		</pc_member>
 		<pc_member>
-			<first_name>Boanerges</first_name>
-			<last_name>Aleman-Meza</last_name>
+			<first_name>Yue</first_name>
+			<last_name>Ma</last_name>
+			<country>Germany</country>
+			<affiliation>Technical University of Dresden</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Irina</first_name>
+			<last_name>Radchenko</last_name>
+			<country>Russia</country>
+			<homepage>http://iradche.ru/english/</homepage>
+			<affiliation>ITMO University</affiliation>
+			<affiliation>Higher School of Economics</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Igor</first_name>
+			<last_name>Bessmertny</last_name>
+			<country>Russia</country>
+			<affiliation>ITMO University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Denis</first_name>
+			<last_name>Ponomaryov</last_name>
+			<country>Germany</country>
+			<affiliation>University of Ulm</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Julia</first_name>
+			<last_name>Taylor</last_name>
 			<country>USA</country>
-			<homepage>http://lsdis.cs.uga.edu/~aleman/</homepage>
-			<email>#######</email>
-			<affiliation>LSDIS Lab, University of Georgia</affiliation>
+			<affiliation>Purdue University</affiliation>
 		</pc_member>
 		<pc_member>
-			<first_name>Harold</first_name>
-			<last_name>Boley</last_name>
-			<country>Canada</country>
-			<homepage>http://www.cs.unb.ca/~boley/</homepage>
-			<email>#######</email>
-			<affiliation>NRC Institute of Information Technology</affiliation>
+			<first_name>Marvin</first_name>
+			<last_name>Schiller</last_name>
+			<country>Germany</country>
+			<affiliation>University of Ulm</affiliation>
 		</pc_member>
 		<pc_member>
-			<first_name>Irene</first_name>
-			<last_name>Celino</last_name>
-			<country>Italy</country>
-			<homepage></homepage>
-			<email>#######</email>
-			<affiliation>Cefriel</affiliation>
+			<first_name>Amrapali</first_name>
+			<last_name>Zaveri</last_name>
+			<country>Germany</country>
+			<affiliation>University of Lepzig</affiliation>
 		</pc_member>
 		<pc_member>
-			<first_name>Asunción</first_name>
-			<last_name>Gómez-Pérez</last_name>
+			<first_name>Alexander</first_name>
+			<last_name>Boukhanovsky</last_name>
+			<country>Russia</country>
+			<affiliation>ITMO University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Roman</first_name>
+			<last_name>Kontchakov</last_name>
+			<country>UK</country>
+			<affiliation>Birkbeck College</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Dmitriy</first_name>
+			<last_name>Zheleznyakov</last_name>
+			<country>UK</country>
+			<affiliation>University of Oxford</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Evgeny</first_name>
+			<last_name>Kharlamov</last_name>
+			<country>UK</country>
+			<affiliation>University of Oxford</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Martin</first_name>
+			<last_name>Homola</last_name>
+			<country>Slovakia</country>
+			<affiliation>Comenius University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Serge</first_name>
+			<last_name>Yablonsky</last_name>
+			<country>Russia</country>
+			<affiliation>St.Petersburg State University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Dmitry</first_name>
+			<last_name>Kudryavtsev</last_name>
+			<country>Russia</country>
+			<affiliation>Business Engineering Group</affiliation>
+			<affiliation>St.Petersburg State Polytechnical University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Samantha</first_name>
+			<last_name>Bail</last_name>
+			<country>US</country>
+			<affiliation>Flatiron Health</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Ivan</first_name>
+			<last_name>Ermilov</last_name>
+			<country>Germany</country>
+			<affiliation>University of Lepzig</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Joerg</first_name>
+			<last_name>Unbehauen</last_name>
+			<country>Germany</country>
+			<affiliation>University of Lepzig</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Ioan</first_name>
+			<last_name>Toma</last_name>
+			<country>Austria</country>
+			<affiliation>STI Innsbruck</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Timofey</first_name>
+			<last_name>Ermilov</last_name>
+			<country>Germany</country>
+			<affiliation>University of Lepzig</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Rafael</first_name>
+			<last_name>Peñaloza</last_name>
+			<country>Germany</country>
+			<affiliation>Technical University of Dresden</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Natalya</first_name>
+			<last_name>Keberle</last_name>
+			<country>Ukraine</country>
+			<affiliation>Zaporizhzhya National University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Chiara</first_name>
+			<last_name>Del Vescovo</last_name>
+			<country>UK</country>
+			<affiliation>University of Manchester</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Jose Emilio</first_name>
+			<last_name>Labra Gayo</last_name>
 			<country>Spain</country>
-			<homepage></homepage>
-			<email>#######</email>
-			<affiliation>Universidad Politécnica de Madrid</affiliation>
+			<affiliation>Universidad de Oviedo</affiliation>
 		</pc_member>
-		
 		<pc_member>
-			<first_name>Tom</first_name>
-			<last_name>Heath</last_name>
-			<country>United Kingdom</country>
-			<homepage></homepage>
-			<email>#######</email>
-			<affiliation>Talis Information Limited</affiliation>
+			<first_name>Dmitry</first_name>
+			<last_name>Ignatov</last_name>
+			<country>Russia</country>
+			<affiliation>Higher School of Economics</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Dmitry</first_name>
+			<last_name>Tsarkov</last_name>
+			<country>UK</country>
+			<affiliation>University of Manchester</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Jakub</first_name>
+			<last_name>Klimek</last_name>
+			<country>Czech Republic</country>
+			<affiliation>Charles University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Svetlana</first_name>
+			<last_name>Popova</last_name>
+			<country>Russia</country>
+			<affiliation>ITMO University</affiliation>
+			<affiliation>St.Petersburg State University</affiliation>
+			<affiliation>St.Petersburg State Polytechnic University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Sören</first_name>
+			<last_name>Auer</last_name>
+			<country>Germany</country>
+			<affiliation>University of Bonn</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Trung-Kien</first_name>
+			<last_name>Tran</last_name>
+			<country>Germany</country>
+			<affiliation>University of Ulm</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Daria</first_name>
+			<last_name>Stepanova</last_name>
+			<country>Austria</country>
+			<affiliation>Technical University of Vienna</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Konrad</first_name>
+			<last_name>Höffner</last_name>
+			<country>Germany</country>
+			<affiliation>University of Leipzig</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Daniel</first_name>
+			<last_name>Hladky</last_name>
+			<country>Switzerland</country>
+			<affiliation>Ontos AG</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Bijan</first_name>
+			<last_name>Parsia</last_name>
+			<country>UK</country>
+			<affiliation>University of Manchester</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Boris</first_name>
+			<last_name>Konev</last_name>
+			<country>UK</country>
+			<affiliation>University of Liverpool</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Sergey</first_name>
+			<last_name>Balandin</last_name>
+			<country>Russia</country>
+			<affiliation>FRUCT</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Valery</first_name>
+			<last_name>Rubashkin</last_name>
+			<country>Russia</country>
+			<affiliation>St.Petersburg State University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Nicolas</first_name>
+			<last_name>Matentzoglu</last_name>
+			<country>UK</country>
+			<affiliation>University of Manchester</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Tatiana</first_name>
+			<last_name>Gavrilova</last_name>
+			<country>Russia</country>
+			<affiliation>St.Petersburg State University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Rafael S.</first_name>
+			<last_name>Gonçalves</last_name>
+			<country>UK</country>
+			<affiliation>University of Manchester</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Matthew</first_name>
+			<last_name>Horridge</last_name>
+			<country>USA</country>
+			<affiliation>Stanford University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Mathieu</first_name>
+			<last_name>D’Aquin</last_name>
+			<country>UK</country>
+			<affiliation>Open University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Andriy</first_name>
+			<last_name>Nikolov</last_name>
+			<country>Germany</country>
+			<affiliation>fluid Operations AG</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Ali</first_name>
+			<last_name>Khalili</last_name>
+			<country>Germany</country>
+			<affiliation>University of Leipzig</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Alessandro</first_name>
+			<last_name>Adamou</last_name>
+			<country>Italy</country>
+			<affiliation>ISTC-CNR</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Anna</first_name>
+			<last_name>Szkudlarek</last_name>
+			<country>France</country>
+			<affiliation>Grenoble Graduate School of Business</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Vladimir</first_name>
+			<last_name>Gorovoy</last_name>
+			<country>Russia</country>
+			<affiliation>Yandex</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Nikita</first_name>
+			<last_name>Zhiltsov</last_name>
+			<country>Russia</country>
+			<affiliation>Kazan Federal University</affiliation>
+		</pc_member>
+		<pc_member>
+			<first_name>Elena</first_name>
+			<last_name>Mozzherina</last_name>
+			<country>Russia</country>
+			<affiliation>Saint-Petersburg State University</affiliation>
 		</pc_member>
 		
 	</pc>
