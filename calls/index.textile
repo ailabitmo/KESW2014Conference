@@ -92,8 +92,7 @@ h3. SUBMISSION
 
 p<>. All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via Easychair.
 
-p=. "Submission page is now CLOSED":https://www.easychair.org/conferences/?conf=kesw2014
-(it will be re-open in mid August to accept poster and position paper submissions)
+p=. "Submission page is now open for submitting posters and position papers":https://www.easychair.org/conferences/?conf=kesw2014
 
 h3. Size restrictions
 
