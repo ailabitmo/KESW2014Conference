@@ -3,7 +3,7 @@ layout: page
 title: Accommodation
 ---
 
-* "IT Park Hotel":http://itpark-kazan.ru/en/hotel which is the conference location and 20 rooms were pre-booked with discount price,
+* "IT Park Hotel":http://itpark-kazan.ru/en/hotel which is the conference location and 20 rooms were pre-booked with discount price. To get the discount please "email the hotel directly":mailto:hotel-itpark@tatar.ru and include information on your dates and the room type. Please say that you are a registered participant of KESW 2014.
 * "Hotel ibis Kazan Centre":http://ibishotel.ibis.com/gb/hotel-6278-ibis-kazan-centre/index.shtml about 1.8 km away from the venue,
 * "Hotel Hayall":http://hayall.ru/en/ which is about 1.5 km away from the venue,
 * "Hotel in Kazan":http://www.parkinn.com/hotel-kazan with discount price (contact person: "Oksana Yuzhakova":mailto:Oksana.Yuzhakova@rezidorparkinn.com),
