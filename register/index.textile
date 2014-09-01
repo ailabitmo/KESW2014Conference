@@ -5,9 +5,11 @@ title: Register
 
 h2. Registration Fees
 
-|_. Date of registration |_. Regular fee |_. Academic fee |_. Student fee |
+|_. Date of registration |_. Regular fee |_. Academic fee |_. Student* fee |
 | Early | €100 | €75 | €50 |
 | Late/On-site | €200 | €150 | €100 |
+
+Both undergraduate and graduate (that is, those doing MSc or PhD) students qualify for the student fees.
 
 **Early conference registration deadline: August 29, 2014**
 
