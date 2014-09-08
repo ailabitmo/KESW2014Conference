@@ -9,13 +9,7 @@ p=. September 29 - October 1, 2014
 
 p=. "Kazan":http://en.wikipedia.org/wiki/Kazan, Russia
 
-bq.. *Latest news:* 
-
-May 11th, 2014: A special track for education oriented papers has been added. The submission deadline is May 23rd. Please see the full "Call For Papers":http://2014.kesw.ru/calls/ for more information.
-
-May 2nd, 2014: Research/industry paper submission deadlines are shifted to May 12th (abstract) and May 16th (full paper).
-
-April 16, 2014: "Student support announced":http://2014.kesw.ru/attending/
+###.. bq.. *Latest news:* 
 
 p<>. KESW 2014 will be the 5th conference in the series. KESW is a top international event taking place in Russia and dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions.
 
