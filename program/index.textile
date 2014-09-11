@@ -3,4 +3,7 @@ layout: page
 title: Tentative program
 ---
 
+p<>. The program below is _tentative_, that is, it may change. Please check back regularly. 
+If you're a speaker, you'll be contacted before any change that affects your talk is made. 
+
 <iframe width="700" height="2000" frameborder="0" src="https://docs.google.com/spreadsheet/pub?key=0AvWfpr6O76b0dFVIaEFENVVvRVpaTWU1cWhUSTFnQ3c&single=true&gid=0&output=html&widget=true"></iframe>
