@@ -3,4 +3,4 @@ layout: page
 title: Tentative program
 ---
 
-<iframe width="500" height="300" frameborder="0" src="https://docs.google.com/spreadsheet/pub?key=0AvWfpr6O76b0dFVIaEFENVVvRVpaTWU1cWhUSTFnQ3c&single=true&gid=0&output=html&widget=true"></iframe>
+<iframe width="800" height="2000" frameborder="0" src="https://docs.google.com/spreadsheet/pub?key=0AvWfpr6O76b0dFVIaEFENVVvRVpaTWU1cWhUSTFnQ3c&single=true&gid=0&output=html&widget=true"></iframe>
