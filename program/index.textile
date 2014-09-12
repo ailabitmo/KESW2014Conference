@@ -14,7 +14,7 @@ table(#program).
 |\2(chair). Chair: Pavel Klinov|
 |/5(time). 11:00-12:30|(paper). Frederik Schadd and Nico Roos, "A Feature Selection Approach for Anchor Evaluation in Ontology Mapping"|
 |(paper). Rustem Dautov, Iraklis Paraskakis and Mike Stannett, "Cloud Sensor Ontology and Linked Data to Support Autonomicity in Cloud Application Platforms"|
-|(paper). Pavel Smirnov and Sergey Kovalchuk, "Linked Data Acquisition Model for Workflow Based Computational Experiments"|
+|(paper). Pavel Smirnov and Sergey Kovalchuk, ""Linked Data Integration for Workflow-based Computational Experiments"|
 |(poster). Maxim Lapaev and Maxim Kolchin, "FOODpedia: a DBpedia of Food Products"|
 |(poster). Nikita Mingazov "A Distributed Model for Searching Semantically Annotated Documents"|
 |(time). 12:30-14:30|Lunch break|
