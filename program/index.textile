@@ -6,4 +6,65 @@ title: Tentative program
 p<>. The program below is _tentative_, that is, it may change. Please check back regularly. 
 If you're a speaker, you'll be contacted before any change that affects your talk is made. 
 
-<iframe width="700" height="2000" frameborder="0" src="https://docs.google.com/spreadsheet/pub?key=0AvWfpr6O76b0dFVIaEFENVVvRVpaTWU1cWhUSTFnQ3c&single=true&gid=0&output=html&widget=true"></iframe>
+table(#program).
+|\2(day). Day I, September 29th|
+|(time). 09:00-09:15|Welcome introduction|
+|(time). 09:20-10:20|(keynote). Vladimir Gorodetsky, "Ontology and User Profiling in 3G Recommender Systems"|
+|(time). 10:30-11:00|Coffee break|
+|\2(chair). Chair: Pavel Klinov|
+|/5(time). 11:00-12:30|(paper). Frederik Schadd and Nico Roos, "A Feature Selection Approach for Anchor Evaluation in Ontology Mapping"|
+|(paper). Rustem Dautov, Iraklis Paraskakis and Mike Stannett, "Cloud Sensor Ontology and Linked Data to Support Autonomicity in Cloud Application Platforms"|
+|(paper). Pavel Smirnov and Sergey Kovalchuk, "Linked Data Acquisition Model for Workflow Based Computational Experiments"|
+|(poster). Maxim Lapaev and Maxim Kolchin, "FOODpedia: a DBpedia of Food Products"|
+|(poster). Nikita Mingazov "A Distributed Model for Searching Semantically Annotated Documents"|
+|(time). 12:30-14:30|Lunch break|
+|\2(chair). Chair: TBD|
+|/5(time). 14:30-16:00|(paper). Daniel Hladky, Martin Voigt and Svetlana Maltseva, "Return on Investment in Linking Content to CRM by Applying the Linked Data Stack"|
+|(paper). Oleg Dyachenko and Yury Zagorulko, "Collaborative Development of Ontology Based Knowledge Bases"|
+|(paper). Fedor Kozlov, "A Tool to Convert Linked Data of E-Learning System to the SCORM Standard"|
+|(poster). Mikhail Galkin and Dmitry Mouromtsev, "Machine Learning Approach in HTML Tables Processing"|
+|(poster). Eugene Cherny and Gleb Rogozinsky, "Distributed System for Collaborative Music Generation"|
+|(time). 16:00-16:30|Coffee break|
+|\2(chair). Chair: TBD|
+|/5(time). 16:30-18:00|(paper). Yuliya Rubtsova, "Automatic Term Extraction for Sentiment Classification of Dynamically Updated Text Collections into Three Classes"|
+|(paper). Galina Rybina and Yuri Blokhin, "Distributed Knowledge Acquisition Control with Use of the Intelligent Program Environment of the AT-TECHNOLOGY Workbench"|
+|(poster). Elena Okhapkina, "Description of the Multi-Agent System and a Fragment of the Ontology for Moderation of Users’ Posts"|
+|(poster). Maxim Kolchin, "Semantic (Web) Technologies for Smart Grid"|
+|(poster). Dmitry Mouromtsev, Yury Emelyanov, Liubov Kovriguina and Dmitry Pavlov, "Ontology-Driven Dialogue Management in the Spoken Dialogue System"|
+|\2(day). Day II, September 30th|
+|(time). 09:15-10:15|(keynote). Stefan Dietze, "From Data to Knowledge – Profiling and Interlinking Datasets on the Web"|
+|(time). 10:30-11:00|Coffee break|
+|\2(chair). Chair: TBD|
+|/6(time). 11:00-12:30|(paper). Olga Nevzorova, Nikita Zhiltsov, Alexander Kirillovich and Evgeny Lipachev, "OntoMathPro Ontology: A Linked Data Hub for Mathematics"|
+|(paper). Denis Zuev, Alexander Elizarov and Evgeniy Lipachev, "Mathematical Content Semantic Markup Methods and Open Scientific E-journals Management Systems"|
+|(paper).Nikolay Teslya, Alexander Smirnov, Tatiana Levashova and Nikolay Shilov, "Ontology for Resource Self-Organisation in Cyber-Physical-Social Systems"|
+|(poster). Rustem Dautov, Iraklis Paraskakis and Mike Stannett, "An Autonomic Semantic Framework for Cloud Application Platforms"|
+|(poster). Dmitry Mouromtsev, Dmitry Pavlov and Yury Emelyanov, "Ontology Data Visualization in a Diagram Form"|
+|(poster). Valeriy Kugler, Margarita Yakovleva and Aleksey Ten, "The Object Web Page Composition for Semantic Object Model Functions"|
+|(time). 12:30-14:30|Lunch break|
+|(time). 14:30-16:00|(poster-session). Poster session|
+|(time). 16:00-17:00|Round table: Open Platforms for Scientific Collaborations (moderated by Irina Radchenko)|
+|\2(day). Day III, October 1st|
+|(time). 09:15-10:15|(keynote). Julia Taylor, "What Can Ontology and Natural Language Do For Each Other?"|
+|(time). 10:30-11:00|Coffee break|
+|\2(chair). Chair: Julia Taylor|
+|/4(time). 11:00-12:40|(paper). Dmitry Ustalov, "Words Worth Attention: Predicting Words of the Week on the Russian Wiktionary"|
+|(paper). Galina Artemova, Kirill Boyarsky, Dmitri Gouzévitch, Natalia Gusarova, Natalia Dobrenko, Eugeny Kanevsky and Daria Petrova, "Text Categorization for Generation of a Historical Shipbuilding Ontology"|
+|(paper). Alfiya M. Galieva, Olga A. Nevzorova and Ayrat R. Gatiatullin, "Towards Building Wordnet for the Tatar Language: a Semantic Model of the Verb System"|
+|(paper). Nataliya Yelagina and Michail Panteleyev, "Deriving of Thematic Facts from Unstructured Texts and Background Knowledge"|
+|(time). 12:40-14:30|Lunch break|
+|\2(chair). Chair: TBD|
+|/4(time). 14:30-16:10|(paper). Pavel Lomov and Maxim Shishaev, "Creating Cognitive Frames Based on Ontology Design Patterns for Ontology Visualization"|
+|(paper). Sherimon P.C., Vinu P.V., Reshmy Krishnan and Youssef Takroni, "Semantic Analysis and Prediction of Various Risks of Diabetic Patients"|
+|(paper). Viktoria Foteeva and Michail Panteleev,"Construction of Personalized Information Services for Researchers"|
+|(paper). Janneth Chicaiza, Nelson Piedra, Jorge López and Edmundo Tovar, "Domain Categorization of Open Educational Resources Based on Linked Data Sources"|
+|(time). 16:10-16:30|Coffee break|
+|\2(chair). Chair: Pavel Klinov|
+|(time). 16:30-16:40|(award). Award Ceremony|
+|(time). 16:45-17:15|Business Meeting|
+
+table(legend#program).
+|(keynote){width: 85px;}. |(white). Keynote talks|
+|(paper). |(white). Research, industry, and system description papers|
+|(poster). |(white). Poster announcements and position papers (flash talks)|
+||(white). Breaks and others|

@@ -2,7 +2,7 @@
 
 <conferenceData>
 	<generalSettings>
-		<uriID>example</uriID>
+		<uriID>http://data.semanticweb.org/conference/kesw/2014</uriID>
 		<year>2014</year>
 		<month>October</month>
 		<proceedings_label>proceedings</proceedings_label>
@@ -26,17 +26,17 @@
 				<email>mouromtsev@mail.ifmo.ru</email>
 				<homepage>http://dimour.spb.ru</homepage>
 				<country>RU</country>
-				<affiliation>ITMO University, RU</affiliation>
+				<affiliation>ITMO University</affiliation>
 			</heldBy>
 		</chair>
 		<chair name="Program Chair">
 			<heldBy>
 				<first_name>Pavel</first_name>
 				<last_name>Klinov</last_name>
-				<email>jane.doe@gmail.com</email>
+				<email>pavel.klinov@uni-ulm.de</email>
 				<homepage>http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html</homepage>
-				<country>RU</country>
-				<affiliation>University of Ulm, GE</affiliation>
+				<country>GE</country>
+				<affiliation>University of Ulm</affiliation>
 			</heldBy>
 		</chair>
 		<chair name="Local Organization Chair">
@@ -60,37 +60,17 @@
 			</heldBy>
 		</chair>
 	</chairs>
-<!--
 	<invitedTalks>	
 	  <invitedTalk>
-	     <title>What Can Ontology and Natural Language Do For Each Other?</title>
+	     <label>What Can Ontology and Natural Language Do For Each Other?</label>
 	     <speaker>
-			<first_name>Julia</first_name>
-			<last_name>Taylor</last_name>
-		 </speaker>
-	     <uriID></uriID>
-	     <description></description>
-	     <time>2014-10-27T14:05:00</time>
-	     <duration>PT0H45M</duration>
-	     <summary>A true ontology should provide a world model for the described domain, identifying its main concepts and tying them together with all relevant contentful properties. The question is how to get this model from text accurately? Assuming, as we do, that there is an accurate and unambiguous way of getting explicitly stated information from text, a lot of information is, in fact, implicit and yet crucial to the world model that we are creating. This implicit information has to be made explicit at the reasoning stage if we hope to come up with the results similar to human reasoning or understanding. And then again, some words in the text are unknown to a machine. Ontology should provide enough knowledge to guess the meaning of these words, as robustly as people do. In this talk, we will look at various ways, requiring optimal human-computer hybrid collaboration, in which ontology helps text understanding and text helps with dynamic ontology development.</summary>
+		    <first_name>Julia</first_name>
+		    <last_name>Taylor</last_name>
+	     </speaker>
+	     <dtstart>2014-10-01T09:15:00</dtstart>
+	     <dtend>2014-10-01T10:05:00</dtend>
 	  </invitedTalk>
-	  <invitedTalk>
-		<title>From Data to Knowledge - Profiling and Interlinking Datasets on the Web</title>
-		<speaker>
-			<first_name>Stefan</first_name>
-			<last_name>Dietze</last_name>
-		</speaker>
-		<uriID>http://data.semanticweb.org/person/stefan-dietze</uriID>
-		<summary>While the Web of Data, and in particular Linked Data, has seen tremendous growth over the past years, take-up, usage and reuse of data is still limited and is often focused on well-known reference datasets such as DBpedia, Yago or Freebase. Datasets vary heavily with respect to their characteristics, such as the amount, quality, domain coverage or currency of exposed data. While this heterogeneity is natural, given the distributed nature of Linked Data, it also poses challenges for finding, adopting and reusing data across the Web. This problem is further elevated by the lack of reliable information (or metadata) about such dataset characteristics. Hence, judging the suitability and trustworthyness of arbitrary datasets for a given task is challenging. In addition, the evolving nature of Linked Data calls for scalable and efficient techniques which are able to automatically (re-)compute dataset metadata (profiles) and links. This talk will provide an overview of challenges and ongoing research on dataset profiling and interlinking. Profiling involves the automated extraction of dataset metadata while interlinking investigates methods for linking not only entities across the Web of data but also to identify candidate datasets for interlinking tasks. The talk will introduce background, methods, and resulting datasets aimed towards the overall goal of improving take-up and reuse of Web datasets.</summary>
-	  </invitedTalk>
-	  <invitedTalk>
-		<title>Ontologies in Recommendation Systems</title>
-		<speaker>
-			<first_name>Vladimir</first_name>
-			<last_name>Gorodetski</last_name>
-		</speaker>
-	  </invitedTalk>
-	</invitedTalks>-->
+	</invitedTalks>
 
 <!-- optional
 	<panels>

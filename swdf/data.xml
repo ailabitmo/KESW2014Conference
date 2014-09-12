@@ -361,39 +361,30 @@
 	<!-- make sure each submission has a unique number! -->
 
 	<submissions>
-		<submission number="2" paper="yes">
-			<title>Nari naru omohi aka yori wo mono hito omohi wo do uhe?</title>
-			<abstract>Goto asikari kata, e naru. Goto te ohom otosime, hasitanaki mono, omohi tanomi. Asikari agari ha, te sobame adikinau ara katazikenaki no ni sobame kokoro do, goto agari yo nam, gerahu oya wo ha. Ohom naho amenosita beku hodo beki gata iyo idure. Tamaha yau me mo kata ara ni Dr. Melfi beki nyougo wo te? Naru no, ni keru no kere, titi yauki uti koso, do otora. Koto titi ba mo boso nari ni ari zu gata mezamasiki.
-			</abstract>
+		<submission number="1" paper="yes">
+			<title>Access control, triggers and versioning over SPARQL endpoint</title>
 			<authors>
 				<author>
-					<first_name>Paul</first_name>
-					<last_name>Gaultieri</last_name>
-					<country>USA</country>
-					<homepage>http://kingpauli.mobsters.com</homepage>
-					<email>kingpauli@mobsters.com</email>
-					<affiliation>The Mob</affiliation>
-				</author>
-				<author>
-					<first_name>Hans</first_name>
-					<last_name>Wurst</last_name>
-					<country>Germany</country>
-					<affiliation>Universität Düsseldorf</affiliation>
+					<first_name>Sergey</first_name>
+					<last_name>Gorshkov</last_name>
+					<country>Russia</country>
+					<email>serge-index@ya.ru</email>
+					<affiliation>Trinidata</affiliation>
 				</author>
 			</authors>
 			<keywords>
-				<keyword>knowledge extraction</keyword>
-				<keyword>NLP</keyword>
-				<keyword>Japanese</keyword>
+				<keyword>access control</keyword>
+				<keyword>SPARQL endpoint</keyword>
+				<keyword>RDF triple store</keyword>
+				<keyword>triggers</keyword>
+				<keyword>versioning</keyword>
+				<keyword>collaborative authoring</keyword>
 			</keywords>
-			<url>http://example.org/ws2008/papers/nari-naru.pdf</url>
+			<!--<url>http://example.org/ws2008/papers/nari-naru.pdf</url>-->
 			<!-- "decision" determines if this paper will be included in our corpus or not -->
 			<!-- if you create this file outside of EasyChair, "decision" will probably always be "accept" -->
 			<decision>accept</decision>
 		</submission>
-		
-		<!-- more submissions -->
-		
 	</submissions>
 
 </snapshot>
