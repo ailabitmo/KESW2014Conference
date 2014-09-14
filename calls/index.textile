@@ -118,3 +118,7 @@ Educational track papers:
 Posters and position papers:
 * Abstract submission: August 29th, 2014
 * Author notification: September 7th, 2014
+
+h3. PARTICIPATION
+
+At least one of the authors of accepted papers has to register for the conference and present the paper there for it to be included in the proceedings.
