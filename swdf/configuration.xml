@@ -16,6 +16,8 @@
 		<logo>http://2014.kesw.ru/resources/kesw_logo.png</logo>
 		<acronym>KESW2014</acronym>
 		<homepage>http://2014.kesw.ru</homepage>
+		<geoLat>55.780505</geoLat>
+		<geoLong>49.133515</geoLong>
 	</conferenceEvent>
 	
 	<chairs>
@@ -35,8 +37,8 @@
 				<last_name>Klinov</last_name>
 				<email>pavel.klinov@uni-ulm.de</email>
 				<homepage>http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html</homepage>
-				<country>GE</country>
 				<affiliation>University of Ulm</affiliation>
+				<sameAs>http://data.semanticweb.org/person/pavel-klinov</sameAs>
 			</heldBy>
 		</chair>
 		<chair name="Local Organization Chair">
@@ -44,25 +46,47 @@
 				<first_name>Ayrat</first_name>
 				<last_name>Khasyanov</last_name>
 				<country>RU</country>
-				<affiliation>Kazan Federal University, RU</affiliation>
+				<affiliation>Kazan Federal University</affiliation>
 			</heldBy>
 			<heldBy>
 				<first_name>Vladimir</first_name>
 				<last_name>Ivanov</last_name>
 				<country>RU</country>
-				<affiliation>Kazan Federal University, RU</affiliation>
+				<affiliation>Kazan Federal University</affiliation>
 			</heldBy>
 			<heldBy>
 				<first_name>Alik</first_name>
 				<last_name>Kirillovich</last_name>
 				<country>RU</country>
-				<affiliation>Kazan Federal University, RU</affiliation>
+				<affiliation>Kazan Federal University</affiliation>
 			</heldBy>
 		</chair>
 	</chairs>
 	<invitedTalks>	
+		<invitedTalk>
+	     <label>Ontology and User Profiling in 3G Recommender Systems</label>
+	     <uriID></uriID>
+	     <speaker>
+		    <first_name>Vladimir</first_name>
+		    <last_name>Gorodetsky</last_name>
+	     </speaker>
+	     <dtstart>2014-09-29T09:20:00</dtstart>
+	     <dtend>2014-09-29T10:20:00</dtend>
+	  </invitedTalk>
+		<invitedTalk>
+	     <label>From Data to Knowledge – Profiling and Interlinking Datasets on the Web</label>
+	     <uriID>http://data.semanticweb.org/person/stefan-dietze</uriID>
+	     <speaker>
+		    <first_name>Stefan</first_name>
+		    <last_name>Dietze</last_name>
+				<sameAs>http://data.semanticweb.org/person/stefan-dietze</sameAs>
+	     </speaker>
+	     <dtstart>2014-09-30T09:15:00</dtstart>
+	     <dtend>2014-09-30T10:15:00</dtend>
+	  </invitedTalk>
 	  <invitedTalk>
 	     <label>What Can Ontology and Natural Language Do For Each Other?</label>
+	     <uriID></uriID>
 	     <speaker>
 		    <first_name>Julia</first_name>
 		    <last_name>Taylor</last_name>
@@ -71,43 +95,6 @@
 	     <dtend>2014-10-01T10:05:00</dtend>
 	  </invitedTalk>
 	</invitedTalks>
-
-<!-- optional
-	<panels>
-	    <panel>
-	       <title>An OWL 2 Soon?</title>
-	       <uriID>owl2soon</uriID>
-	       <moderator>
-			  <first_name>Otto</first_name>
-			  <last_name>Normalverbraucher</last_name>
-		   </moderator>
-	       <panelist>
-			  <first_name>Janet</first_name>
-			  <last_name>Meyers</last_name>
-		  </panelist>
-	       <panelist>
-			  <first_name>Ben</first_name>
-			  <last_name>Bongo</last_name>
-			  <email>bengo@names.org</email>
-		  </panelist>
-	       <panelist>
-			  <first_name>Jack</first_name>
-			  <last_name>Browlowski</last_name>
-			  <country>USA</country>
-		  </panelist>
-	       <panelist>
-			  <first_name>Tony</first_name>
-			  <last_name>Soprano</last_name>
-			  <affiliation>The Mob</affiliation>
-		  </panelist>
-	       <description>Ni no, ito okori ito ni titi aru no, titi nani. Hasitanaki ohom sato ni ahare tanomi sonemi sugurete. Yauki kokoro masite midare ya te motenasi urami mo ni kita mazirahi wo asa ni sasiatari oya no nayami mazirahi, yuhu nado hasitanaki. Ni mazirahi to mo, naho nu ya wo kokoro mono, no dokoro? Kita mezamasiki ga inisihe ohom boso, ha mo, hanayaka hazime uti zu no, te ide bito omohosi? Asa itau no, hazime toki ni. Keru no ni ari yauki omohi beku no ohom, habakara wo ohom yo? 
-		</description>
-	       <time>2008-10-28T14:00:00</time>
-	       <duration>PT1H30M</duration>
-	    </panel>
-	</panels>
--->
-
 	<proceedings>
 		<title>Proceedings of 5th Conference on Knowledge Engineering and the Semantic Web (KESW2014), September 29-October 1, 2014</title>
 		<year>2014</year>
@@ -115,10 +102,15 @@
 		<editor>
 			<first_name>Pavel</first_name>
 			<last_name>Klinov</last_name>
+			<homepage>https://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html</homepage>
+			<sameAs>http://data.semanticweb.org/person/pavel-klinov</sameAs>
 		</editor>
 		<editor>
 			<first_name>Dmitry</first_name>
 			<last_name>Mouromtsev</last_name>
+			<affiliation>ITMO University</affiliation>
+			<homepage>http://dimour.spb.ru</homepage>
+			<country>RU</country>
 		</editor>
 	</proceedings>
 
