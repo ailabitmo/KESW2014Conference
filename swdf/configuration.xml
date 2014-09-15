@@ -29,6 +29,7 @@
 				<homepage>http://dimour.spb.ru</homepage>
 				<country>RU</country>
 				<affiliation>ITMO University</affiliation>
+				<sameAs>http://data.semanticweb.org/person/dmitry-mouromtsev</sameAs>
 			</heldBy>
 		</chair>
 		<chair name="Program Chair">
@@ -41,24 +42,37 @@
 				<sameAs>http://data.semanticweb.org/person/pavel-klinov</sameAs>
 			</heldBy>
 		</chair>
+		<chair name="Publicity Chair">
+			<heldBy>
+				<first_name>Maxim</first_name>
+				<last_name>Kolchin</last_name>
+				<email>kolchinmax@gmail.com</email>
+				<homepage>http://kolchinmax.ru</homepage>
+				<affiliation>ITMO University</affiliation>
+				<sameAs>http://data.semanticweb.org/person/maxim-kolchin</sameAs>
+			</heldBy>
+		</chair>
 		<chair name="Local Organization Chair">
 			<heldBy>
 				<first_name>Ayrat</first_name>
 				<last_name>Khasyanov</last_name>
 				<country>RU</country>
 				<affiliation>Kazan Federal University</affiliation>
+				<sameAs>http://data.semanticweb.org/person/ayrat-khasyanov</sameAs>
 			</heldBy>
 			<heldBy>
 				<first_name>Vladimir</first_name>
 				<last_name>Ivanov</last_name>
 				<country>RU</country>
 				<affiliation>Kazan Federal University</affiliation>
+				<sameAs>http://data.semanticweb.org/person/vladimir-ivanov</sameAs>
 			</heldBy>
 			<heldBy>
 				<first_name>Alik</first_name>
 				<last_name>Kirillovich</last_name>
 				<country>RU</country>
 				<affiliation>Kazan Federal University</affiliation>
+				<sameAs>http://data.semanticweb.org/person/alik-kirillovich</sameAs>
 			</heldBy>
 		</chair>
 	</chairs>
@@ -69,6 +83,7 @@
 	     <speaker>
 		    <first_name>Vladimir</first_name>
 		    <last_name>Gorodetsky</last_name>
+				<sameAs>http://data.semanticweb.org/person/vladimir-gorodetsky</sameAs>
 	     </speaker>
 	     <dtstart>2014-09-29T09:20:00</dtstart>
 	     <dtend>2014-09-29T10:20:00</dtend>
@@ -90,6 +105,7 @@
 	     <speaker>
 		    <first_name>Julia</first_name>
 		    <last_name>Taylor</last_name>
+				<sameAs>http://data.semanticweb.org/person/julia-taylor</sameAs>
 	     </speaker>
 	     <dtstart>2014-10-01T09:15:00</dtstart>
 	     <dtend>2014-10-01T10:05:00</dtend>
@@ -111,6 +127,7 @@
 			<affiliation>ITMO University</affiliation>
 			<homepage>http://dimour.spb.ru</homepage>
 			<country>RU</country>
+			<sameAs>http://data.semanticweb.org/person/dmitry-mouromtsev</sameAs>
 		</editor>
 	</proceedings>
 

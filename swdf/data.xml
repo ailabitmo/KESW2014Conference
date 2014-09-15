@@ -16,19 +16,21 @@
 		<pc_member>
 			<first_name>Darya</first_name>
 			<last_name>Tarasowa</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Bonn</affiliation>
+			<sameAs>http://data.semanticweb.org/person/darya-tarasowa</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Yue</first_name>
 			<last_name>Ma</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>Technical University of Dresden</affiliation>
+			<sameAs>http://data.semanticweb.org/person/yue-ma</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Irina</first_name>
 			<last_name>Radchenko</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<homepage>http://iradche.ru/english/</homepage>
 			<affiliation>ITMO University</affiliation>
 			<affiliation>Higher School of Economics</affiliation>
@@ -36,13 +38,13 @@
 		<pc_member>
 			<first_name>Igor</first_name>
 			<last_name>Bessmertny</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>ITMO University</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Denis</first_name>
 			<last_name>Ponomaryov</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Ulm</affiliation>
 		</pc_member>
 		<pc_member>
@@ -54,19 +56,20 @@
 		<pc_member>
 			<first_name>Marvin</first_name>
 			<last_name>Schiller</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Ulm</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Amrapali</first_name>
 			<last_name>Zaveri</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Lepzig</affiliation>
+			<sameAs>http://data.semanticweb.org/person/amrapali-zaveri</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Alexander</first_name>
 			<last_name>Boukhanovsky</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>ITMO University</affiliation>
 		</pc_member>
 		<pc_member>
@@ -74,35 +77,39 @@
 			<last_name>Kontchakov</last_name>
 			<country>UK</country>
 			<affiliation>Birkbeck College</affiliation>
+			<sameAs>http://data.semanticweb.org/person/roman-kontchakov</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Dmitriy</first_name>
 			<last_name>Zheleznyakov</last_name>
 			<country>UK</country>
 			<affiliation>University of Oxford</affiliation>
+			<sameAs>http://data.semanticweb.org/person/dmitriy-zheleznyakov</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Evgeny</first_name>
 			<last_name>Kharlamov</last_name>
 			<country>UK</country>
 			<affiliation>University of Oxford</affiliation>
+			<sameAs>http://data.semanticweb.org/person/evgeny-kharlamov</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Martin</first_name>
 			<last_name>Homola</last_name>
-			<country>Slovakia</country>
+			<country>SK</country>
 			<affiliation>Comenius University</affiliation>
+			<sameAs>http://data.semanticweb.org/person/martin-homola</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Serge</first_name>
 			<last_name>Yablonsky</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>St.Petersburg State University</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Dmitry</first_name>
 			<last_name>Kudryavtsev</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>Business Engineering Group</affiliation>
 			<affiliation>St.Petersburg State Polytechnical University</affiliation>
 		</pc_member>
@@ -111,59 +118,68 @@
 			<last_name>Bail</last_name>
 			<country>US</country>
 			<affiliation>Flatiron Health</affiliation>
+			<sameAs>http://data.semanticweb.org/person/samantha-bail</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Ivan</first_name>
 			<last_name>Ermilov</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Lepzig</affiliation>
+			<sameAs>http://data.semanticweb.org/person/ivan-ermilov</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Joerg</first_name>
 			<last_name>Unbehauen</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Lepzig</affiliation>
+			<sameAs>http://data.semanticweb.org/person/joerg-unbehauen</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Ioan</first_name>
 			<last_name>Toma</last_name>
-			<country>Austria</country>
+			<country>AT</country>
 			<affiliation>STI Innsbruck</affiliation>
+			<sameAs>http://data.semanticweb.org/person/ioan-toma</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Timofey</first_name>
 			<last_name>Ermilov</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Lepzig</affiliation>
+			<sameAs>http://data.semanticweb.org/person/timofey-ermilov</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Rafael</first_name>
 			<last_name>Peñaloza</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>Technical University of Dresden</affiliation>
+			<sameAs>http://data.semanticweb.org/person/rafael-penaloza</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Natalya</first_name>
 			<last_name>Keberle</last_name>
-			<country>Ukraine</country>
+			<country>UA</country>
 			<affiliation>Zaporizhzhya National University</affiliation>
+			<sameAs>http://data.semanticweb.org/person/natalya-keberle</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Chiara</first_name>
 			<last_name>Del Vescovo</last_name>
 			<country>UK</country>
 			<affiliation>University of Manchester</affiliation>
+			<sameAs>http://data.semanticweb.org/person/chiara-del-vescovo</sameAs>
 		</pc_member>
 		<pc_member>
-			<first_name>Jose Emilio</first_name>
+			<first_name>Jose-Emilio</first_name>
 			<last_name>Labra Gayo</last_name>
-			<country>Spain</country>
+			<country>ES</country>
 			<affiliation>Universidad de Oviedo</affiliation>
+			<sameAs>http://data.semanticweb.org/person/jose-emilio-labra-gayo</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Dmitry</first_name>
 			<last_name>Ignatov</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>Higher School of Economics</affiliation>
 		</pc_member>
 		<pc_member>
@@ -171,17 +187,19 @@
 			<last_name>Tsarkov</last_name>
 			<country>UK</country>
 			<affiliation>University of Manchester</affiliation>
+			<sameAs>http://data.semanticweb.org/person/dmitry-tsarkov</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Jakub</first_name>
 			<last_name>Klimek</last_name>
-			<country>Czech Republic</country>
+			<country>CZ</country>
 			<affiliation>Charles University</affiliation>
+			<sameAs>http://data.semanticweb.org/person/jakub-klimek</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Svetlana</first_name>
 			<last_name>Popova</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>ITMO University</affiliation>
 			<affiliation>St.Petersburg State University</affiliation>
 			<affiliation>St.Petersburg State Polytechnic University</affiliation>
@@ -189,31 +207,33 @@
 		<pc_member>
 			<first_name>Sören</first_name>
 			<last_name>Auer</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Bonn</affiliation>
+			<sameAs>http://data.semanticweb.org/person/soeren-auer</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Trung-Kien</first_name>
 			<last_name>Tran</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Ulm</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Daria</first_name>
 			<last_name>Stepanova</last_name>
-			<country>Austria</country>
+			<country>AT</country>
 			<affiliation>Technical University of Vienna</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Konrad</first_name>
 			<last_name>Höffner</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Leipzig</affiliation>
+			<sameAs>http://data.semanticweb.org/person/konrad-hoeffner</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Daniel</first_name>
 			<last_name>Hladky</last_name>
-			<country>Switzerland</country>
+			<country>CH</country>
 			<affiliation>Ontos AG</affiliation>
 		</pc_member>
 		<pc_member>
@@ -221,6 +241,7 @@
 			<last_name>Parsia</last_name>
 			<country>UK</country>
 			<affiliation>University of Manchester</affiliation>
+			<sameAs>http://data.semanticweb.org/person/bijan-parsia</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Boris</first_name>
@@ -231,13 +252,13 @@
 		<pc_member>
 			<first_name>Sergey</first_name>
 			<last_name>Balandin</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>FRUCT</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Valery</first_name>
 			<last_name>Rubashkin</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>St.Petersburg State University</affiliation>
 		</pc_member>
 		<pc_member>
@@ -245,11 +266,12 @@
 			<last_name>Matentzoglu</last_name>
 			<country>UK</country>
 			<affiliation>University of Manchester</affiliation>
+			<sameAs>http://data.semanticweb.org/person/nicolas-matentzoglu</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Tatiana</first_name>
 			<last_name>Gavrilova</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>St.Petersburg State University</affiliation>
 		</pc_member>
 		<pc_member>
@@ -257,104 +279,112 @@
 			<last_name>Gonçalves</last_name>
 			<country>UK</country>
 			<affiliation>University of Manchester</affiliation>
+			<sameAs>http://data.semanticweb.org/person/rafael-s-goncalves</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Matthew</first_name>
 			<last_name>Horridge</last_name>
 			<country>USA</country>
 			<affiliation>Stanford University</affiliation>
+			<sameAs>http://data.semanticweb.org/person/matthew-horridge</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Mathieu</first_name>
 			<last_name>D’Aquin</last_name>
 			<country>UK</country>
 			<affiliation>Open University</affiliation>
+			<sameAs>http://data.semanticweb.org/person/mathieu-daquin</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Andriy</first_name>
 			<last_name>Nikolov</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>fluid Operations AG</affiliation>
+			<sameAs>http://data.semanticweb.org/person/andriy-nikolov</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Ali</first_name>
 			<last_name>Khalili</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Leipzig</affiliation>
+			<sameAs>http://data.semanticweb.org/person/ali-khalili</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Alessandro</first_name>
 			<last_name>Adamou</last_name>
-			<country>Italy</country>
+			<country>IT</country>
 			<affiliation>ISTC-CNR</affiliation>
+			<sameAs>http://data.semanticweb.org/person/alessandro-adamou</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Anna</first_name>
 			<last_name>Szkudlarek</last_name>
-			<country>France</country>
+			<country>FR</country>
 			<affiliation>Grenoble Graduate School of Business</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Vladimir</first_name>
 			<last_name>Gorovoy</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>Yandex</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Nikita</first_name>
 			<last_name>Zhiltsov</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>Kazan Federal University</affiliation>
+			<sameAs>http://data.semanticweb.org/person/nikita-zhiltsov</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Elena</first_name>
 			<last_name>Mozzherina</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>Saint-Petersburg State University</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Chaosheng</first_name>
 			<last_name>Fan</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>Technical University of Dresden</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Liubov</first_name>
 			<last_name>Kovriguina</last_name>
-			<country>Russia</country>
+			<country>RU</country>
 			<affiliation>ITMO University</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Ruslan</first_name>
 			<last_name>Fayzrakhmanov</last_name>
-			<country>Austria</country>
+			<country>AT</country>
 			<affiliation>Technical University of Vienna</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Muhammad</first_name>
 			<last_name>Saleem</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Leipzig</affiliation>
+			<sameAs>http://data.semanticweb.org/person/muhammad-saleem</sameAs>
 		</pc_member>
 		<pc_member>
 			<first_name>Edgard</first_name>
 			<last_name>Marx</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Leipzig</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Mofeed</first_name>
 			<last_name>Hassan</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Leipzig</affiliation>
 		</pc_member>
 		<pc_member>
 			<first_name>Martin</first_name>
 			<last_name>Brümmer</last_name>
-			<country>Germany</country>
+			<country>GE</country>
 			<affiliation>University of Leipzig</affiliation>
+			<sameAs>http://data.semanticweb.org/person/martin-bruemmer</sameAs>
 		</pc_member>
-		
 	</pc>
 
 	<!-- Submissions Information (Papers) -->
@@ -367,22 +397,378 @@
 				<author>
 					<first_name>Sergey</first_name>
 					<last_name>Gorshkov</last_name>
-					<country>Russia</country>
-					<email>serge-index@ya.ru</email>
-					<affiliation>Trinidata</affiliation>
 				</author>
 			</authors>
-			<keywords>
-				<keyword>access control</keyword>
-				<keyword>SPARQL endpoint</keyword>
-				<keyword>RDF triple store</keyword>
-				<keyword>triggers</keyword>
-				<keyword>versioning</keyword>
-				<keyword>collaborative authoring</keyword>
-			</keywords>
-			<!--<url>http://example.org/ws2008/papers/nari-naru.pdf</url>-->
-			<!-- "decision" determines if this paper will be included in our corpus or not -->
-			<!-- if you create this file outside of EasyChair, "decision" will probably always be "accept" -->
+			<decision>accept</decision>
+		</submission>
+		<submission number="2" paper="yes">
+			<title>Text Categorization for Generation of a Historical Shipbuilding Ontology</title>
+			<authors>
+				<author>
+					<first_name>Galina</first_name>
+					<last_name>Artemova</last_name>
+				</author>
+				<author>
+					<first_name>Kirill</first_name>
+					<last_name>Boyarsky</last_name>
+				</author>
+				<author>
+					<first_name>Dmitri</first_name>
+					<last_name>Gouzévitch</last_name> 
+				</author>
+				<author>
+					<first_name>Natalia</first_name>
+					<last_name>Gusarova</last_name>
+				</author>
+				<author>
+					<first_name>Natalia</first_name>
+					<last_name>Dobrenko</last_name>  
+				</author>
+				<author>
+					<first_name>Eugeny</first_name>
+					<last_name>Kanevsky</last_name>
+				</author>
+				<author>
+					<first_name>Daria</first_name>
+					<last_name>Petrova</last_name>
+				</author>
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="3" paper="yes">
+			<title>Domain Categorization of Open Educational Resources Based on Linked Data</title>
+			<authors>
+				<author>
+					<first_name>Janneth</first_name>
+					<last_name>Chicaiza</last_name>
+				</author>
+				<author>
+					<first_name>Nelson</first_name>
+					<last_name>Piedra</last_name>
+				</author>  
+				<author>
+					<first_name>Jorge</first_name>
+					<last_name>Lopez-Vargas</last_name>
+				</author>
+				<author>
+					<first_name>Edmundo</first_name>
+					<last_name>Tovar-Caro</last_name>
+				</author>
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="4" paper="yes">
+			<title>Cloud Sensor Ontology and Linked Data to Support Autonomicity in Cloud Application Platforms</title>
+			<authors>
+				<author>
+					<first_name>Rustem</first_name>
+					<last_name>Dautov</last_name>
+				</author>
+				<author>
+					<first_name>Iraklis</first_name>
+					<last_name>Paraskakis</last_name>
+				</author>  
+				<author>
+					<first_name>Mike</first_name>
+					<last_name>Stannett</last_name>
+				</author>
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="5" paper="yes">
+			<title>Construction of Personalized Information Services for Researchers</title>
+			<authors>
+				<author>
+					<first_name>Michail</first_name>
+					<last_name>Panteleyev</last_name>
+				</author>
+				<author>
+					<first_name>Viktoria</first_name>
+					<last_name>Foteyeva</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="6" paper="yes">
+			<title>Towards Building Wordnet for the Tatar Language: A Semantic Model of the Verb System</title>
+			<authors>
+				<author>
+					<first_name>Alfiya</first_name>
+					<last_name>Galieva</last_name>
+				</author>
+				<author>
+					<first_name>Olga</first_name>
+					<last_name>Nevzorova</last_name>
+				</author>  
+				<author>
+					<first_name>Ayrat</first_name>
+					<last_name>Gatiatullin</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="7" paper="yes">
+			<title>Return on Investment in Linking Content to CRM by Applying the Linked Data Stack</title>
+			<authors>
+				<author>
+					<first_name>Daniel</first_name>
+					<last_name>Hladky</last_name>
+				</author>
+				<author>
+					<first_name>Svetlana</first_name>
+					<last_name>Maltseva</last_name>
+				</author>  
+				<author>
+					<first_name>Dmitriy</first_name>
+					<last_name>Ogorodniychuk</last_name>
+				</author>  
+				<author>
+					<first_name>Grigory</first_name>
+					<last_name>Drobyazko</last_name>
+				</author>  
+				<author>
+					<first_name>Martin</first_name>
+					<last_name>Voigt</last_name>
+				</author>  
+				<author>
+					<first_name>Jon Jay</first_name>
+					<last_name>Le Grange</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="8" paper="yes">
+			<title>Creating Cognitive Frames Based on Ontology Design Patterns for Ontology Visualization</title>
+			<authors>
+				<author>
+					<first_name>Pavel</first_name>
+					<last_name>Lomov</last_name>
+				</author>
+				<author>
+					<first_name>Maxim</first_name>
+					<last_name>Shishaev</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="9" paper="yes">
+			<title>OntoMath PRO Ontology: A Linked Data Hub for Mathematics</title>
+			<authors>
+				<author>
+					<first_name>Olga</first_name>
+					<last_name>Nevzorova</last_name>
+				</author>
+				<author>
+					<first_name>Nikita</first_name>
+					<last_name>Zhiltsov</last_name>
+				</author>  
+				<author>
+					<first_name>Alexander</first_name>
+					<last_name>Kirillovich</last_name>
+				</author> 
+				<author>
+					<first_name>Evgeny</first_name>
+					<last_name>Lipachev</last_name>
+				</author> 
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="10" paper="yes">
+			<title>Semantic Analysis and Prediction of Various Risks of Diabetic Patients</title>
+			<authors>
+				<author>
+					<first_name>Sherimon</first_name>
+					<last_name>P.C.</last_name>
+				</author>
+				<author>
+					<first_name>Vinu</first_name>
+					<last_name>P.V.</last_name>
+				</author>  
+				<author>
+					<first_name>Reshmy</first_name>
+					<last_name>Krishnan</last_name>
+				</author> 
+				<author>
+					<first_name>Youssef</first_name>
+					<last_name>Takroni</last_name>
+				</author> 
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="11" paper="yes">
+			<title>Interaction History Based Answer Formulation for Question Answering</title>
+			<authors>
+				<author>
+					<first_name>Rivindu</first_name>
+					<last_name>Perera</last_name>
+				</author>
+				<author>
+					<first_name>Parma</first_name>
+					<last_name>Nand</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="12" paper="yes">
+			<title>Automatic Term Extraction for Sentiment Classification of Dynamically Updated Text Collections into Three Classes</title>
+			<authors>
+				<author>
+					<first_name>Yuliya</first_name>
+					<last_name>Rubtsova</last_name>
+				</author>
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="13" paper="yes">
+			<title>Distributed Knowledge Acquisition Control with Use of the Intelligent Program Environment of the AT-TECHNOLOGY Workbench</title>
+			<authors>
+				<author>
+					<first_name>Galina</first_name>
+					<last_name>Rybina</last_name>
+				</author>
+				<author>
+					<first_name>Yury</first_name>
+					<last_name>Blokhin</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="14" paper="yes">
+			<title>A Feature Selection Approach for Anchor Evaluation in Ontology Mapping</title>
+			<authors>
+				<author>
+					<first_name>Frederik</first_name>
+					<last_name>Schadd</last_name>
+				</author>
+				<author>
+					<first_name>Nico</first_name>
+					<last_name>Roos</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="15" paper="yes">
+			<title>Linked-Data Integration for Workflow-Based Computational Experiments</title>
+			<authors>
+				<author>
+					<first_name>Pavel</first_name>
+					<last_name>Smirnov</last_name>
+				</author>
+				<author>
+					<first_name>Sergey</first_name>
+					<last_name>Kovalchuk</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="16" paper="yes">
+			<title>Ontology for Resource Self-organisation in Cyber-Physical-Social Systems</title>
+			<authors>
+				<author>
+					<first_name>Nikolay</first_name>
+					<last_name>Teslya</last_name>
+				</author>
+				<author>
+					<first_name>Alexander</first_name>
+					<last_name>Smirnov</last_name>
+				</author>  
+				<author>
+					<first_name>Tatiana</first_name>
+					<last_name>Levashova</last_name>
+				</author>  
+				<author>
+					<first_name>Nikolay</first_name>
+					<last_name>Shilov</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="17" paper="yes">
+			<title>Words Worth Attention: Predicting Words of the Week on the Russian Wiktionary</title>
+			<authors>
+				<author>
+					<first_name>Dmitry</first_name>
+					<last_name>Ustalov</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="18" paper="yes">
+			<title>Deriving of Thematic Facts from Unstructured Texts and Background Knowledge</title>
+			<authors>
+				<author>
+					<first_name>Nataliya</first_name>
+					<last_name>Yelagina</last_name>
+				</author>
+				<author>
+					<first_name>Michail</first_name>
+					<last_name>Panteleyev</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="19" paper="yes">
+			<title>A Collaborative Development of Ontology-Based Knowledge Bases</title>
+			<authors>
+				<author>
+					<first_name>Oleg</first_name>
+					<last_name>Dyachenko</last_name>
+				</author>
+				<author>
+					<first_name>Yury</first_name>
+					<last_name>Zagorulko</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="20" paper="yes">
+			<title>A Tool to Convert Linked Data of E-Learning System to the SCORM Standard</title>
+			<authors>
+				<author>
+					<first_name>Fedor</first_name>
+					<last_name>Kozlov</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="21" paper="yes">
+			<title>OntoFast: Construct Ontology Rapidly</title>
+			<authors>
+				<author>
+					<first_name>Abdul-Mateen</first_name>
+					<last_name>Rajput</last_name>
+				</author>
+				<author>
+					<first_name>Marzio</first_name>
+					<last_name>Pennisi</last_name>
+				</author>  
+				<author>
+					<first_name>Santo</first_name>
+					<last_name>Motta</last_name>
+				</author>  
+				<author>
+					<first_name>Francesco</first_name>
+					<last_name>Pappalardo</last_name>
+				</author>  
+			</authors>
+			<decision>accept</decision>
+		</submission>
+		<submission number="22" paper="yes">
+			<title>Mathematical Content Semantic Markup Methods and Open Scientific E-Journals Management Systems</title>
+			<authors>
+				<author>
+					<first_name>Alexander</first_name>
+					<last_name>Elizarov</last_name>
+				</author>
+				<author>
+					<first_name>Evgeny</first_name>
+					<last_name>Lipachev</last_name>
+				</author>  
+				<author>
+					<first_name>Denis</first_name>
+					<last_name>Zuev</last_name>
+				</author>  
+			</authors>
 			<decision>accept</decision>
 		</submission>
 	</submissions>
