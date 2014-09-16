@@ -6,11 +6,11 @@ published: true
 
 h3. Main organizers
 
-*General Chair:* Dmitry Mouromtsev, University ITMO, St.Petersburg, Russia
+*General Chair:* Dmitry Mouromtsev, ITMO University, Russia
 
 *Program Chair:* "Pavel Klinov":http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html, University of Ulm, Germany
 
-*Publicity Chair:* "Maxim Kolchin":http://kolchinmax.ru
+*Publicity Chair:* "Maxim Kolchin":http://kolchinmax.ru, ITMO University, Russia
 
 *Local Organization Chairs:*
 Ayrat Khasyanov, Kazan Federal University,
