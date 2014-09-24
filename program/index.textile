@@ -53,7 +53,7 @@ table(#program).
 |(paper). Alfiya M. Galieva, Olga A. Nevzorova and Ayrat R. Gatiatullin, "Towards Building Wordnet for the Tatar Language: a Semantic Model of the Verb System"|
 |(paper). Nataliya Yelagina and Michail Panteleyev, "Deriving of Thematic Facts from Unstructured Texts and Background Knowledge"|
 |(time). 12:40-14:30|Lunch break|
-|\2(chair). Chair: TBD|
+|\2(chair). Chair: Yuliya Rubtsova|
 |/4(time). 14:30-16:10|(paper). Pavel Lomov and Maxim Shishaev, "Creating Cognitive Frames Based on Ontology Design Patterns for Ontology Visualization"|
 |(paper). Sherimon P.C., Vinu P.V., Reshmy Krishnan and Youssef Takroni, "Semantic Analysis and Prediction of Various Risks of Diabetic Patients"|
 |(paper). Viktoria Foteeva and Michail Panteleev,"Construction of Personalized Information Services for Researchers"|
