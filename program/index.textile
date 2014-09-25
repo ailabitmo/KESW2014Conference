@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The program
+title: The Program
 ---
 
 p<>. The program is final and only changes due to unforeseen circumstances will be made.
@@ -68,6 +68,8 @@ table(legend#program).
 |(paper). |(white). Research, industry, and system description papers|
 |(poster). |(white). Poster announcements and position papers (flash talks)|
 ||(white). Breaks and others|
+
+h3. Best papers
 
 p<>. The following five papers have been selected for the final round of the Best Paper competition. The top three places will receive a certificate and a cash prize. The winners will be announced at the Award Ceremony.
 
