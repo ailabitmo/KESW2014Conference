@@ -11,14 +11,14 @@ table(#program).
 |(time). 09:00-09:15|Welcome introduction|
 |(time). 09:20-10:20|(keynote). Vladimir Gorodetsky, "Ontology and User Profiling in 3G Recommender Systems"|
 |(time). 10:30-11:00|Coffee break|
-|\2(chair). Chair: Pavel Klinov|
+|\2(chair). Chair: Nikita Zhiltsov|
 |/5(time). 11:00-12:30|(paper). Frederik Schadd and Nico Roos, "A Feature Selection Approach for Anchor Evaluation in Ontology Mapping"|
 |(paper). Rustem Dautov, Iraklis Paraskakis and Mike Stannett, "Cloud Sensor Ontology and Linked Data to Support Autonomicity in Cloud Application Platforms"|
 |(paper). Pavel Smirnov and Sergey Kovalchuk, ""Linked Data Integration for Workflow-based Computational Experiments"|
 |(poster). Maxim Lapaev and Maxim Kolchin, "FOODpedia: a DBpedia of Food Products"|
 |(poster). Nikita Mingazov "A Distributed Model for Searching Semantically Annotated Documents"|
 |(time). 12:30-14:30|Lunch break|
-|\2(chair). Chair: TBD|
+|\2(chair). Chair: Pavel Klinov|
 |/5(time). 14:30-16:00|(paper). Daniel Hladky, Martin Voigt and Svetlana Maltseva, "Return on Investment in Linking Content to CRM by Applying the Linked Data Stack"|
 |(paper). Oleg Dyachenko and Yury Zagorulko, "Collaborative Development of Ontology Based Knowledge Bases"|
 |(paper). Fedor Kozlov, "A Tool to Convert Linked Data of E-Learning System to the SCORM Standard"|
@@ -53,7 +53,7 @@ table(#program).
 |(paper). Alfiya M. Galieva, Olga A. Nevzorova and Ayrat R. Gatiatullin, "Towards Building Wordnet for the Tatar Language: a Semantic Model of the Verb System"|
 |(paper). Nataliya Yelagina and Michail Panteleyev, "Deriving of Thematic Facts from Unstructured Texts and Background Knowledge"|
 |(time). 12:40-14:30|Lunch break|
-|\2(chair). Chair: TBD|
+|\2(chair). Chair: Yuliya Rubtsova|
 |/4(time). 14:30-16:10|(paper). Pavel Lomov and Maxim Shishaev, "Creating Cognitive Frames Based on Ontology Design Patterns for Ontology Visualization"|
 |(paper). Sherimon P.C., Vinu P.V., Reshmy Krishnan and Youssef Takroni, "Semantic Analysis and Prediction of Various Risks of Diabetic Patients"|
 |(paper). Viktoria Foteeva and Michail Panteleev,"Construction of Personalized Information Services for Researchers"|
