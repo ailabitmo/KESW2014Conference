@@ -25,7 +25,7 @@ table(#program).
 |(poster). Eugene Cherny and Gleb Rogozinsky, "Distributed System for Collaborative Music Generation"|
 |(time). 16:00-16:30|Coffee break|
 |\2(chair). Chair: TBD|
-|/5(time). 16:30-18:00|(paper). Yuliya Rubtsova, "Automatic Term Extraction for Sentiment Classification of Dynamically Updated Text Collections into Three Classes" *Best Paper Candidate* |
+|/5(time). 16:30-17:30|(paper). Yuliya Rubtsova, "Automatic Term Extraction for Sentiment Classification of Dynamically Updated Text Collections into Three Classes" *Best Paper Candidate* |
 |(paper). Galina Rybina and Yuri Blokhin, "Distributed Knowledge Acquisition Control with Use of the Intelligent Program Environment of the AT-TECHNOLOGY Workbench"|
 |(poster). Elena Okhapkina, "Description of the Multi-Agent System and a Fragment of the Ontology for Moderation of Users’ Posts"|
 |(poster). Maxim Kolchin, "Semantic (Web) Technologies for Smart Grid"|
