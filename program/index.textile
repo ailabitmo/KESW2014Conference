@@ -69,7 +69,7 @@ table(legend#program).
 |(poster). |(white). Poster announcements and position papers (flash talks)|
 ||(white). Breaks and others|
 
-h3. Best papers
+h3(#best). Best papers
 
 p<>. The following five papers have been selected for the final round of the Best Paper competition. The top three places will receive a certificate and a cash prize. The winners will be announced at the Award Ceremony.
 
