@@ -4,6 +4,10 @@ title: News
 published: true
 ---
 
+h3. Thursday 25, 2014: Proceedings online
+
+The Springer CCIS volume of KESW 2014 proceedings is "online":http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-3-319-11715-7
+
 h3. July 21, 2014: STI International is a Gold Sponsor
 
 We are pleased to announce that STI International became a Gold Sponsor of the conference! Thank you STI International for their support!
