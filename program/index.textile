@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Tentative program
+title: The program
 ---
 
-p<>. The program below is _tentative_, that is, it may change. Please check back regularly. 
-If you're a speaker, you'll be contacted before any change that affects your talk is made. 
+p<>. The program is final and only changes due to unforeseen circumstances will be made.
 
 table(#program).
 |\2(day). Day I, September 29th|
@@ -12,8 +11,8 @@ table(#program).
 |(time). 09:20-10:20|(keynote). Vladimir Gorodetsky, "Ontology and User Profiling in 3G Recommender Systems"|
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: Nikita Zhiltsov|
-|/5(time). 11:00-12:30|(paper). Frederik Schadd and Nico Roos, "A Feature Selection Approach for Anchor Evaluation in Ontology Mapping"|
-|(paper). Rustem Dautov, Iraklis Paraskakis and Mike Stannett, "Cloud Sensor Ontology and Linked Data to Support Autonomicity in Cloud Application Platforms"|
+|/5(time). 11:00-12:30|(paper). Frederik Schadd and Nico Roos, "A Feature Selection Approach for Anchor Evaluation in Ontology Mapping" *Best Paper Candidate* |
+|(paper). Rustem Dautov, Iraklis Paraskakis and Mike Stannett, "Cloud Sensor Ontology and Linked Data to Support Autonomicity in Cloud Application Platforms" *Best Paper Candidate* |
 |(paper). Pavel Smirnov and Sergey Kovalchuk, ""Linked Data Integration for Workflow-based Computational Experiments"|
 |(poster). Maxim Lapaev and Maxim Kolchin, "FOODpedia: a DBpedia of Food Products"|
 |(poster). Nikita Mingazov "A Distributed Model for Searching Semantically Annotated Documents"|
@@ -26,7 +25,7 @@ table(#program).
 |(poster). Eugene Cherny and Gleb Rogozinsky, "Distributed System for Collaborative Music Generation"|
 |(time). 16:00-16:30|Coffee break|
 |\2(chair). Chair: TBD|
-|/5(time). 16:30-18:00|(paper). Yuliya Rubtsova, "Automatic Term Extraction for Sentiment Classification of Dynamically Updated Text Collections into Three Classes"|
+|/5(time). 16:30-18:00|(paper). Yuliya Rubtsova, "Automatic Term Extraction for Sentiment Classification of Dynamically Updated Text Collections into Three Classes" *Best Paper Candidate* |
 |(paper). Galina Rybina and Yuri Blokhin, "Distributed Knowledge Acquisition Control with Use of the Intelligent Program Environment of the AT-TECHNOLOGY Workbench"|
 |(poster). Elena Okhapkina, "Description of the Multi-Agent System and a Fragment of the Ontology for Moderation of Users’ Posts"|
 |(poster). Maxim Kolchin, "Semantic (Web) Technologies for Smart Grid"|
@@ -37,8 +36,8 @@ table(#program).
 |\2(chair). Chair: Stefan Dietze|
 |/6(time). 11:00-12:30|(paper). Olga Nevzorova, Nikita Zhiltsov, Alexander Kirillovich and Evgeny Lipachev, "OntoMathPro Ontology: A Linked Data Hub for Mathematics"|
 |(paper). Denis Zuev, Alexander Elizarov and Evgeniy Lipachev, "Mathematical Content Semantic Markup Methods and Open Scientific E-journals Management Systems"|
-|(paper).Nikolay Teslya, Alexander Smirnov, Tatiana Levashova and Nikolay Shilov, "Ontology for Resource Self-Organisation in Cyber-Physical-Social Systems"|
-|(poster). Rustem Dautov, Iraklis Paraskakis and Mike Stannett, "An Autonomic Semantic Framework for Cloud Application Platforms"|
+|(paper).Nikolay Teslya, Alexander Smirnov, Tatiana Levashova and Nikolay Shilov, "Ontology for Resource Self-Organisation in Cyber-Physical-Social Systems" *Best Paper Candidate* |
+|(poster). Rustem Dautov, Iraklis Paraskakis and Mike Stannett, "An Autonomic Semantic Framework for Cloud Application Platforms" |
 |(poster). Dmitry Mouromtsev, Dmitry Pavlov and Yury Emelyanov, "Ontology Data Visualization in a Diagram Form"|
 |(poster). Valeriy Kugler, Margarita Yakovleva and Aleksey Ten, "The Object Web Page Composition for Semantic Object Model Functions"|
 |(time). 12:30-14:30|Lunch break|
@@ -49,7 +48,7 @@ table(#program).
 |(time). 09:15-10:15|(keynote). Julia Taylor, "What Can Ontology and Natural Language Do For Each Other?"|
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: Julia Taylor|
-|/4(time). 11:00-12:40|(paper). Dmitry Ustalov, "Words Worth Attention: Predicting Words of the Week on the Russian Wiktionary"|
+|/4(time). 11:00-12:40|(paper). Dmitry Ustalov, "Words Worth Attention: Predicting Words of the Week on the Russian Wiktionary" *Best Paper Candidate* |
 |(paper). Galina Artemova, Kirill Boyarsky, Dmitri Gouzévitch, Natalia Gusarova, Natalia Dobrenko, Eugeny Kanevsky and Daria Petrova, "Text Categorization for Generation of a Historical Shipbuilding Ontology"|
 |(paper). Alfiya M. Galieva, Olga A. Nevzorova and Ayrat R. Gatiatullin, "Towards Building Wordnet for the Tatar Language: a Semantic Model of the Verb System"|
 |(paper). Nataliya Yelagina and Michail Panteleyev, "Deriving of Thematic Facts from Unstructured Texts and Background Knowledge"|
@@ -69,3 +68,11 @@ table(legend#program).
 |(paper). |(white). Research, industry, and system description papers|
 |(poster). |(white). Poster announcements and position papers (flash talks)|
 ||(white). Breaks and others|
+
+p<>. The following five papers have been selected for the final round of the Best Paper competition. The top three places will receive a certificate and a cash prize. The winners will be announced at the Award Ceremony.
+
+* Rustem Dautov, Iraklis Paraskakis and Mike Stannett. Cloud Sensor Ontology and Linked Data to Support Autonomicity in Cloud Application Platforms 
+* Frederik Schadd and Nico Roos. A Feature Selection Approach for Anchor Evaluation in Ontology Mapping (Research track paper)
+* Yuliya Rubtsova. Automatic term extraction for sentiment classification of dynamically updated text collections into three classes
+* Dmitry Ustalov. Words worth attention: predicting words of the week on the Russian Wiktionary 
+* Nikolay Teslya, Alexander Smirnov, Tatiana Levashova and Nikolay Shilov. Ontology for Resource Self-Organisation in Cyber-Physical-Social Systems
