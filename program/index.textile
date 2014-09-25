@@ -34,7 +34,7 @@ table(#program).
 |\2(day). Day II, September 30th|
 |(time). 09:15-10:15|(keynote). Stefan Dietze, "From Data to Knowledge – Profiling and Interlinking Datasets on the Web"|
 |(time). 10:30-11:00|Coffee break|
-|\2(chair). Chair: TBD|
+|\2(chair). Chair: Stefan Dietze|
 |/6(time). 11:00-12:30|(paper). Olga Nevzorova, Nikita Zhiltsov, Alexander Kirillovich and Evgeny Lipachev, "OntoMathPro Ontology: A Linked Data Hub for Mathematics"|
 |(paper). Denis Zuev, Alexander Elizarov and Evgeniy Lipachev, "Mathematical Content Semantic Markup Methods and Open Scientific E-journals Management Systems"|
 |(paper).Nikolay Teslya, Alexander Smirnov, Tatiana Levashova and Nikolay Shilov, "Ontology for Resource Self-Organisation in Cyber-Physical-Social Systems"|
