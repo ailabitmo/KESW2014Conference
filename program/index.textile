@@ -28,7 +28,7 @@ table(#program).
 |/5(time). 16:30-17:30|(paper). Yuliya Rubtsova, "Automatic Term Extraction for Sentiment Classification of Dynamically Updated Text Collections into Three Classes" *Best Paper Candidate* |
 |(paper). Galina Rybina and Yuri Blokhin, "Distributed Knowledge Acquisition Control with Use of the Intelligent Program Environment of the AT-TECHNOLOGY Workbench"|
 |(poster). Elena Okhapkina, "Description of the Multi-Agent System and a Fragment of the Ontology for Moderation of Users’ Posts"|
-|(poster). Maxim Kolchin, "Semantic (Web) Technologies for Smart Grid"|
+|(poster). Maxim Kolchin, "Semantic Web Technologies for Smart Grid"|
 |(poster). Dmitry Mouromtsev, Yury Emelyanov, Liubov Kovriguina and Dmitry Pavlov, "Ontology-Driven Dialogue Management in the Spoken Dialogue System"|
 |\2(day). Day II, September 30th|
 |(time). 09:15-10:15|(keynote). Stefan Dietze, "From Data to Knowledge – Profiling and Interlinking Datasets on the Web"|
