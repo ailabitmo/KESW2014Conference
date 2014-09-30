@@ -34,12 +34,13 @@ table(#program).
 |(time). 09:15-10:15|(keynote). Stefan Dietze, ""Turning Data into Knowledge - profiling and interlinking Web datasets"":http://de.slideshare.net/stefandietze/turning-data-into-knowledge-kesw2014-keynote|
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: Stefan Dietze|
-|/6(time). 11:00-12:30|(paper). Olga Nevzorova, Nikita Zhiltsov, Alexander Kirillovich and Evgeny Lipachev, "OntoMathPro Ontology: A Linked Data Hub for Mathematics"|
+|/7(time). 11:00-12:30|(paper). Olga Nevzorova, Nikita Zhiltsov, Alexander Kirillovich and Evgeny Lipachev, "OntoMathPro Ontology: A Linked Data Hub for Mathematics"|
 |(paper). Denis Zuev, Alexander Elizarov and Evgeniy Lipachev, "Mathematical Content Semantic Markup Methods and Open Scientific E-journals Management Systems"|
 |(paper).Nikolay Teslya, Alexander Smirnov, Tatiana Levashova and Nikolay Shilov, "Ontology for Resource Self-Organisation in Cyber-Physical-Social Systems" *Best Paper Candidate* |
 |(poster). Rustem Dautov, Iraklis Paraskakis and Mike Stannett, "An Autonomic Semantic Framework for Cloud Application Platforms" |
 |(poster). Dmitry Mouromtsev, Dmitry Pavlov and Yury Emelyanov, "Ontology Data Visualization in a Diagram Form"|
 |(poster). Valeriy Kugler, Margarita Yakovleva and Aleksey Ten, "The Object Web Page Composition for Semantic Object Model Functions"|
+|(poster). Sergey Zaika, ""Semantic Web driven e-learning system for object-oriented paradigm"":http://www.slideshare.net/sergeyzaikafewald/kesw-2014-zaikapositionpaper|
 |(time). 12:30-14:30|Lunch break|
 |(time). 14:30-14:55|(paper). Abdul-Mateen Rajput, Marzio Pennisi, Santo Motta, Francesco Pappalardo, "OntoFast: Construct Ontology Rapidly" |
 |(time). 15:00-16:30|(poster-session). Poster session|
