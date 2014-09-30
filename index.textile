@@ -10,6 +10,8 @@ p=. September 29 - October 1, 2014
 p=. "Kazan":http://en.wikipedia.org/wiki/Kazan, Russia
 
 bq.. *Latest news:*
+Etherpad (collaborative tools) for the Round Table: "https://pad.riseup.net/p/OPfSC":https://pad.riseup.net/p/OPfSC
+
 The 5 best paper candidates "announced":http://2014.kesw.ru/program/#best
 
 The Springer CCIS volume of KESW 2014 proceedings is "online":http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-3-319-11715-7
