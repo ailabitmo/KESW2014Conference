@@ -20,7 +20,7 @@ table(#program).
 |\2(chair). Chair: Pavel Klinov|
 |/5(time). 14:30-16:00|(paper). Daniel Hladky, Martin Voigt and Svetlana Maltseva, ""Return on Investment in Linking Content to CRM by Applying the Linked Data Stack"":http://www.slideshare.net/danielhladky/return-on-investment-in-linking-content-to-crm-by-applying-the-linked-data-stack|
 |(paper). Oleg Dyachenko and Yury Zagorulko, "Collaborative Development of Ontology Based Knowledge Bases"|
-|(paper). Fedor Kozlov, "A Tool to Convert Linked Data of E-Learning System to the SCORM Standard"|
+|(paper). Fedor Kozlov, ""A Tool to Convert Linked Data of E-Learning System to the SCORM Standard"":http://www.slideshare.net/fredkozlov/a-tool-to-convert-linked-data-of-e-learning-system-to-the-scorm-standard|
 |(poster). Mikhail Galkin and Dmitry Mouromtsev, "Machine Learning Approach in HTML Tables Processing"|
 |(poster). Eugene Cherny and Gleb Rogozinsky, "Distributed System for Collaborative Music Generation"|
 |(time). 16:00-16:30|Coffee break|
