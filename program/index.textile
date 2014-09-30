@@ -14,11 +14,11 @@ table(#program).
 |/5(time). 11:00-12:30|(paper). Frederik Schadd and Nico Roos, "A Feature Selection Approach for Anchor Evaluation in Ontology Mapping" *Best Paper Candidate* |
 |(paper). Rustem Dautov, Iraklis Paraskakis and Mike Stannett, "Cloud Sensor Ontology and Linked Data to Support Autonomicity in Cloud Application Platforms" *Best Paper Candidate* |
 |(paper). Pavel Smirnov and Sergey Kovalchuk, "Linked Data Integration for Workflow-based Computational Experiments"|
-|(poster). Maxim Lapaev and Maxim Kolchin, "FOODpedia: a DBpedia of Food Products"|
+|(poster). Maxim Lapaev and Maxim Kolchin, ""FOODpedia: a DBpedia of Food Products"":http://www.slideshare.net/kolchinmax/kesw-2014-foo-dpedia-a-dbpedia-of-food-products|
 |(poster). Nikita Mingazov "A Distributed Model for Searching Semantically Annotated Documents"|
 |(time). 12:30-14:30|Lunch break|
 |\2(chair). Chair: Pavel Klinov|
-|/5(time). 14:30-16:00|(paper). Daniel Hladky, Martin Voigt and Svetlana Maltseva, "Return on Investment in Linking Content to CRM by Applying the Linked Data Stack"|
+|/5(time). 14:30-16:00|(paper). Daniel Hladky, Martin Voigt and Svetlana Maltseva, ""Return on Investment in Linking Content to CRM by Applying the Linked Data Stack"":http://www.slideshare.net/danielhladky/return-on-investment-in-linking-content-to-crm-by-applying-the-linked-data-stack|
 |(paper). Oleg Dyachenko and Yury Zagorulko, "Collaborative Development of Ontology Based Knowledge Bases"|
 |(paper). Fedor Kozlov, "A Tool to Convert Linked Data of E-Learning System to the SCORM Standard"|
 |(poster). Mikhail Galkin and Dmitry Mouromtsev, "Machine Learning Approach in HTML Tables Processing"|
@@ -31,7 +31,7 @@ table(#program).
 |(poster). Maxim Kolchin, "Semantic Web Technologies for Smart Grid"|
 |(poster). Dmitry Mouromtsev, Yury Emelyanov, Liubov Kovriguina and Dmitry Pavlov, "Ontology-Driven Dialogue Management in the Spoken Dialogue System"|
 |\2(day). Day II, September 30th|
-|(time). 09:15-10:15|(keynote). Stefan Dietze, "From Data to Knowledge – Profiling and Interlinking Datasets on the Web"|
+|(time). 09:15-10:15|(keynote). Stefan Dietze, ""Turning Data into Knowledge - profiling and interlinking Web datasets"":http://de.slideshare.net/stefandietze/turning-data-into-knowledge-kesw2014-keynote|
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: Stefan Dietze|
 |/6(time). 11:00-12:30|(paper). Olga Nevzorova, Nikita Zhiltsov, Alexander Kirillovich and Evgeny Lipachev, "OntoMathPro Ontology: A Linked Data Hub for Mathematics"|
