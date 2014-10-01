@@ -42,7 +42,7 @@ table(#program).
 |(poster). Valeriy Kugler, Margarita Yakovleva and Aleksey Ten, "The Object Web Page Composition for Semantic Object Model Functions"|
 |(poster). Sergey Zaika, ""Semantic Web driven e-learning system for object-oriented paradigm"":http://www.slideshare.net/sergeyzaikafewald/kesw-2014-zaikapositionpaper|
 |(time). 12:30-14:30|Lunch break|
-|(time). 14:30-14:55|(paper). Abdul-Mateen Rajput, Marzio Pennisi, Santo Motta, Francesco Pappalardo, "OntoFast: Construct Ontology Rapidly" |
+|(time). 14:30-14:55|(paper). Abdul-Mateen Rajput, Marzio Pennisi, Santo Motta, Francesco Pappalardo, ""OntoFast: Construct Ontology Rapidly"":/resources/OntoFast.pdf |
 |(time). 15:00-16:30|(poster-session). Poster session|
 |(time). 16:30-17:30|Round table: Open Platforms for Scientific Collaborations (moderated by Irina Radchenko)|
 |\2(day). Day III, October 1st|
