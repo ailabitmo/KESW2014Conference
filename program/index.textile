@@ -13,7 +13,7 @@ table(#program).
 |\2(chair). Chair: Nikita Zhiltsov|
 |/5(time). 11:00-12:30|(paper). Frederik Schadd and Nico Roos, "A Feature Selection Approach for Anchor Evaluation in Ontology Mapping" *Best Paper Candidate* |
 |(paper). Rustem Dautov, Iraklis Paraskakis and Mike Stannett, "Cloud Sensor Ontology and Linked Data to Support Autonomicity in Cloud Application Platforms" *Best Paper Candidate* |
-|(paper). Pavel Smirnov and Sergey Kovalchuk, ""Linked Data Integration for Workflow-based Computational Experiments"":https://www.researchgate.net/publication/266262555_Slides_KESW2014|
+|(paper). Pavel Smirnov and Sergey Kovalchuk, ""Linked Data Integration for Workflow-based Computational Experiments"":https://www.researchgate.net/profile/Pavel_Smirnov7/publication/266262679_Slides_KESW2014/links/542bb57b0cf29bbc126a94c4?origin=publication_detail|
 |(poster). Maxim Lapaev and Maxim Kolchin, ""FOODpedia: a DBpedia of Food Products"":http://www.slideshare.net/kolchinmax/kesw-2014-foo-dpedia-a-dbpedia-of-food-products|
 |(poster). Nikita Mingazov "A Distributed Model for Searching Semantically Annotated Documents"|
 |(time). 12:30-14:30|Lunch break|
