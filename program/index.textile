@@ -46,7 +46,7 @@ table(#program).
 |(time). 15:00-16:30|(poster-session). Poster session|
 |(time). 16:30-17:30|Round table: Open Platforms for Scientific Collaborations (moderated by Irina Radchenko)|
 |\2(day). Day III, October 1st|
-|(time). 09:15-10:15|(keynote). Julia Taylor, "What Can Ontology and Natural Language Do For Each Other?"|
+|(time). 09:15-10:15|(keynote). Julia Taylor, ""What Can Ontology and Natural Language Do For Each Other?"":/resources/julia.taylor.pptx|
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: Julia Taylor|
 |/4(time). 11:00-12:40|(paper). Dmitry Ustalov, "Words Worth Attention: Predicting Words of the Week on the Russian Wiktionary" *Best Paper Candidate* |
@@ -55,7 +55,7 @@ table(#program).
 |(paper). Nataliya Yelagina and Michail Panteleyev, "Deriving of Thematic Facts from Unstructured Texts and Background Knowledge"|
 |(time). 12:40-14:30|Lunch break|
 |\2(chair). Chair: Yuliya Rubtsova|
-|/4(time). 14:30-16:10|(paper). Pavel Lomov and Maxim Shishaev, "Creating Cognitive Frames Based on Ontology Design Patterns for Ontology Visualization"|
+|/4(time). 14:30-16:10|(paper). Pavel Lomov and Maxim Shishaev, ""Creating Cognitive Frames Based on Ontology Design Patterns for Ontology Visualization"":https://www.dropbox.com/s/o018oj4q44mo0dn/KognFrames_KESW_2014_Lomov.pdf|
 |(paper). Sherimon P.C., Vinu P.V., Reshmy Krishnan and Youssef Takroni, "Semantic Analysis and Prediction of Various Risks of Diabetic Patients"|
 |(paper). Viktoria Foteeva and Michail Panteleev,"Construction of Personalized Information Services for Researchers"|
 |(paper). Janneth Chicaiza, Nelson Piedra, Jorge López and Edmundo Tovar, "Domain Categorization of Open Educational Resources Based on Linked Data Sources"|
